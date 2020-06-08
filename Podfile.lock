@@ -1,0 +1,97 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Backendless (5.4.0):
+    - Socket.IO-Client-Swift
+  - FirebaseAuth (4.4.1):
+    - FirebaseAnalytics (~> 4.0)
+    - FirebaseCore (~> 4.0)
+    - "GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)"
+    - GTMSessionFetcher/Core (~> 1.1)
+  - FirebaseCore (4.0.13):
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+  - FirebaseDatabase (4.1.3):
+    - FirebaseAnalytics (~> 4.0)
+    - FirebaseCore (~> 4.0)
+    - leveldb-library (~> 1.18)
+  - FirebaseStorage (2.1.1):
+    - FirebaseAnalytics (~> 4.0)
+    - FirebaseCore (~> 4.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.2.1):
+    - GoogleToolboxForMac/Defines (= 2.2.1)
+  - GoogleToolboxForMac/Defines (2.2.1)
+  - "GoogleToolboxForMac/NSData+zlib (2.2.1)":
+    - GoogleToolboxForMac/Defines (= 2.2.1)
+  - "GoogleToolboxForMac/NSDictionary+URLArguments (2.2.1)":
+    - GoogleToolboxForMac/DebugUtils (= 2.2.1)
+    - GoogleToolboxForMac/Defines (= 2.2.1)
+    - "GoogleToolboxForMac/NSString+URLArguments (= 2.2.1)"
+  - "GoogleToolboxForMac/NSString+URLArguments (2.2.1)"
+  - GTMSessionFetcher/Core (1.2.2)
+  - leveldb-library (1.20)
+  - ReachabilitySwift (4.3.1)
+  - Socket.IO-Client-Swift (15.1.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.0)
+  - SwiftyDropbox (5.1.0):
+    - Alamofire (~> 4.8.2)
+  - SwiftyJSON (5.0.0)
+  - Uploadcare/Core (3.0.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.1)
+  - Backendless
+  - FirebaseAuth (from `./FireBaseSDK/`)
+  - FirebaseCore (from `./FireBaseSDK/`)
+  - FirebaseDatabase (from `./FireBaseSDK/`)
+  - FirebaseStorage (from `./FireBaseSDK/`)
+  - ReachabilitySwift
+  - SwiftyDropbox
+  - SwiftyJSON
+  - Uploadcare/Core (from `./UploadCareSDK/`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Backendless
+    - GoogleToolboxForMac
+    - GTMSessionFetcher
+    - leveldb-library
+    - ReachabilitySwift
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SwiftyDropbox
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  FirebaseAuth:
+    :path: "./FireBaseSDK/"
+  FirebaseCore:
+    :path: "./FireBaseSDK/"
+  FirebaseDatabase:
+    :path: "./FireBaseSDK/"
+  FirebaseStorage:
+    :path: "./FireBaseSDK/"
+  Uploadcare:
+    :path: "./UploadCareSDK/"
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Backendless: c075f2076139fdcab0540df70a21dc4ec55fe74a
+  FirebaseAuth: 425898be15cfff4d032c1a7496ad6818653bc14c
+  FirebaseCore: afbceb9ed4a859265a2958b781cf3b9b801dda7d
+  FirebaseDatabase: 3332a9e9863c61b25daced9c49672fcddc849477
+  FirebaseStorage: 93fb7ae9345f7f3170833c18e342534377d8ab2d
+  GoogleToolboxForMac: b3553629623a3b1bff17f555e736cd5a6d95ad55
+  GTMSessionFetcher: 61bb0f61a4cb560030f1222021178008a5727a23
+  leveldb-library: 08cba283675b7ed2d99629a4bc5fd052cd2bb6a5
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  Socket.IO-Client-Swift: 7cb44c0ffb86e158cee32d0642d30ec5fdcf8f61
+  Starscream: 08172b481e145289c4930cb567230fb55897cfa4
+  SwiftyDropbox: 7ca4961e0340c62c8d6d1ece91d67badfe4c0380
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Uploadcare: 07e4bdbde4e76ea3327b2d975981b1849d48d80f
+
+PODFILE CHECKSUM: 1f38eddf6b643a3298679086667e8fa680a7d606
+
+COCOAPODS: 1.6.1

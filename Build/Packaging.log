@@ -1,0 +1,1493 @@
+2019-07-19 03:47:33 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fc43f924170; archive(resolved)='<IDEArchive: 0x7fc448fdf410>', distributionTask(resolved)='2', distributionDestination(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodMacAppStoreDistribution: 0x7fc463bc7a40>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc43e53c3d0; teamID='QXNMG5R4EQ', teamName='Burcu Mirza', teamType='Individual', username='burcu.mirza@gmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (13, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fc43f924170; archive = '<IDEArchive: 0x7fc448fdf410>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7fc463bc7a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc43e53c3d0; teamID='QXNMG5R4EQ', teamName='Burcu Mirza', teamType='Individual', username='burcu.mirza@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fc43fbce480; archive = '<IDEArchive: 0x7fc448fdf410>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7fc463bc7a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc43e53c3d0; teamID='QXNMG5R4EQ', teamName='Burcu Mirza', teamType='Individual', username='burcu.mirza@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc441088de0; archive = '<IDEArchive: 0x7fc448fdf410>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7fc463bc7a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc43e53c3d0; teamID='QXNMG5R4EQ', teamName='Burcu Mirza', teamType='Individual', username='burcu.mirza@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc4410b81f0; archive = '<IDEArchive: 0x7fc448fdf410>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7fc463bc7a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc43e53c3d0; teamID='QXNMG5R4EQ', teamName='Burcu Mirza', teamType='Individual', username='burcu.mirza@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc4410aa400; archive = '<IDEArchive: 0x7fc448fdf410>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7fc463bc7a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc43e53c3d0; teamID='QXNMG5R4EQ', teamName='Burcu Mirza', teamType='Individual', username='burcu.mirza@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc43fb8a260; archive = '<IDEArchive: 0x7fc448fdf410>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7fc463bc7a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc43e53c3d0; teamID='QXNMG5R4EQ', teamName='Burcu Mirza', teamType='Individual', username='burcu.mirza@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc4410ea040; archive = '<IDEArchive: 0x7fc448fdf410>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7fc463bc7a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc43e53c3d0; teamID='QXNMG5R4EQ', teamName='Burcu Mirza', teamType='Individual', username='burcu.mirza@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc4410dca60; archive = '<IDEArchive: 0x7fc448fdf410>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7fc463bc7a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc43e53c3d0; teamID='QXNMG5R4EQ', teamName='Burcu Mirza', teamType='Individual', username='burcu.mirza@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc4410bbb60; archive = '<IDEArchive: 0x7fc448fdf410>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7fc463bc7a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc43e53c3d0; teamID='QXNMG5R4EQ', teamName='Burcu Mirza', teamType='Individual', username='burcu.mirza@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc43bfbc930; archive = '<IDEArchive: 0x7fc448fdf410>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7fc463bc7a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc43e53c3d0; teamID='QXNMG5R4EQ', teamName='Burcu Mirza', teamType='Individual', username='burcu.mirza@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc43eebd570; archive = '<IDEArchive: 0x7fc448fdf410>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7fc463bc7a40>', team='(null)'>
+	<IDEDistributionContext: 0x7fc43fb00e10; archive = '<IDEArchive: 0x7fc448fdf410>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7fc463bc7a40>', team='(null)'>
+	<IDEDistributionContext: 0x7fc44a01cf30; archive = '<IDEArchive: 0x7fc448fdf410>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fc43f924170>
+2019-07-19 03:47:33 +0000  Processing step: IDEDistributionCreateDestRootStep
+2019-07-19 03:47:33 +0000  Processing step: IDEDistributionCopyItemStep
+2019-07-19 03:47:33 +0000  Running /usr/bin/ditto '-V' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app'
+2019-07-19 03:47:33 +0000  >>> Copying /Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app 
+2019-07-19 03:47:33 +0000  copying file ./Contents/_CodeSignature/CodeResources ... 
+2019-07-19 03:47:33 +0000  19506 bytes for ./Contents/_CodeSignature/CodeResources
+2019-07-19 03:47:33 +0000  copying file ./Contents/MacOS/Image Uploader ... 
+2019-07-19 03:47:33 +0000  2585088 bytes for ./Contents/MacOS/Image Uploader
+2019-07-19 03:47:33 +0000  copying file ./Contents/Resources/index.html ... 
+2019-07-19 03:47:33 +0000  537 bytes for ./Contents/Resources/index.html
+2019-07-19 03:47:33 +0000  copying file ./Contents/Resources/AppIcon.icns ... 
+2019-07-19 03:47:33 +0000  82714 bytes for ./Contents/Resources/AppIcon.icns
+copying file ./Contents/Resources/RightArrow.png ... 
+2019-07-19 03:47:33 +0000  10716 bytes for ./Contents/Resources/RightArrow.png
+copying file ./Contents/Resources/GoogleService-Info.plist ... 
+2019-07-19 03:47:33 +0000  1209 bytes for ./Contents/Resources/GoogleService-Info.plist
+2019-07-19 03:47:33 +0000  copying file ./Contents/Resources/LeftArrow.png ... 
+2019-07-19 03:47:33 +0000  10632 bytes for ./Contents/Resources/LeftArrow.png
+2019-07-19 03:47:33 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/MainViewController.nib ... 
+2019-07-19 03:47:33 +0000  1899 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/MainViewController.nib
+copying file ./Contents/Resources/Base.lproj/Main.storyboardc/jpd-b5-ii5-view-OCa-mE-42l.nib ... 
+2019-07-19 03:47:33 +0000  16536 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/jpd-b5-ii5-view-OCa-mE-42l.nib
+2019-07-19 03:47:33 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/CameraController.nib ... 
+2019-07-19 03:47:33 +0000  1903 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/CameraController.nib
+copying file ./Contents/Resources/Base.lproj/Main.storyboardc/CameraWindow.nib ... 
+2019-07-19 03:47:33 +0000  4036 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/CameraWindow.nib
+copying file ./Contents/Resources/Base.lproj/Main.storyboardc/MainMenu.nib ... 
+2019-07-19 03:47:33 +0000  36287 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/MainMenu.nib
+copying file ./Contents/Resources/Base.lproj/Main.storyboardc/hNy-li-hvD-view-fAv-3S-8MU.nib ... 
+2019-07-19 03:47:33 +0000  13433 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/hNy-li-hvD-view-fAv-3S-8MU.nib
+2019-07-19 03:47:33 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib ... 
+2019-07-19 03:47:33 +0000  3919 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+copying file ./Contents/Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-a2a-yi-pAG.nib ... 
+2019-07-19 03:47:33 +0000  24875 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-a2a-yi-pAG.nib
+copying file ./Contents/Resources/Base.lproj/Main.storyboardc/Info.plist ... 
+2019-07-19 03:47:33 +0000  787 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Contents/Resources/Base.lproj/Main.storyboardc/HistoryController.nib ... 
+2019-07-19 03:47:33 +0000  1905 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/HistoryController.nib
+2019-07-19 03:47:33 +0000  copying file ./Contents/Resources/script.js ... 
+2019-07-19 03:47:33 +0000  2583 bytes for ./Contents/Resources/script.js
+2019-07-19 03:47:33 +0000  copying file ./Contents/Resources/stylesheet.css ... 
+2019-07-19 03:47:33 +0000  1399 bytes for ./Contents/Resources/stylesheet.css
+copying file ./Contents/Resources/Assets.car ... 
+2019-07-19 03:47:33 +0000  2071752 bytes for ./Contents/Resources/Assets.car
+copying file ./Contents/Resources/VarelaRound-Regular.ttf ... 
+2019-07-19 03:47:33 +0000  125312 bytes for ./Contents/Resources/VarelaRound-Regular.ttf
+copying file ./Contents/Resources/background.gif ... 
+2019-07-19 03:47:33 +0000  1908869 bytes for ./Contents/Resources/background.gif
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/SwiftyJSON.framework/SwiftyJSON ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/SwiftyJSON.framework/SwiftyJSON
+copying symlink ./Contents/Frameworks/SwiftyJSON.framework/Resources ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/SwiftyJSON.framework/Resources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/SwiftyJSON.framework/Versions/A/_CodeSignature/CodeResources ... 
+2019-07-19 03:47:33 +0000  2514 bytes for ./Contents/Frameworks/SwiftyJSON.framework/Versions/A/_CodeSignature/CodeResources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/SwiftyJSON.framework/Versions/A/SwiftyJSON ... 
+2019-07-19 03:47:33 +0000  457600 bytes for ./Contents/Frameworks/SwiftyJSON.framework/Versions/A/SwiftyJSON
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/SwiftyJSON.framework/Versions/A/Resources/Info.plist ... 
+2019-07-19 03:47:33 +0000  1229 bytes for ./Contents/Frameworks/SwiftyJSON.framework/Versions/A/Resources/Info.plist
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/SwiftyJSON.framework/Versions/Current ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/SwiftyJSON.framework/Versions/Current
+copying file ./Contents/Frameworks/libswiftAppKit.dylib ... 
+2019-07-19 03:47:33 +0000  241232 bytes for ./Contents/Frameworks/libswiftAppKit.dylib
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/Reachability.framework/Resources ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/Reachability.framework/Resources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/Reachability.framework/Versions/A/_CodeSignature/CodeResources ... 
+2019-07-19 03:47:33 +0000  2514 bytes for ./Contents/Frameworks/Reachability.framework/Versions/A/_CodeSignature/CodeResources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/Reachability.framework/Versions/A/Resources/Info.plist ... 
+2019-07-19 03:47:33 +0000  1235 bytes for ./Contents/Frameworks/Reachability.framework/Versions/A/Resources/Info.plist
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/Reachability.framework/Versions/A/Reachability ... 
+2019-07-19 03:47:33 +0000  166960 bytes for ./Contents/Frameworks/Reachability.framework/Versions/A/Reachability
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/Reachability.framework/Versions/Current ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/Reachability.framework/Versions/Current
+copying symlink ./Contents/Frameworks/Reachability.framework/Reachability ... 
+linked ./Contents/Frameworks/Reachability.framework/Reachability
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/libswiftCoreImage.dylib ... 
+2019-07-19 03:47:33 +0000  49360 bytes for ./Contents/Frameworks/libswiftCoreImage.dylib
+copying file ./Contents/Frameworks/libswiftObjectiveC.dylib ... 
+2019-07-19 03:47:33 +0000  61008 bytes for ./Contents/Frameworks/libswiftObjectiveC.dylib
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/libswiftXPC.dylib ... 
+2019-07-19 03:47:33 +0000  44944 bytes for ./Contents/Frameworks/libswiftXPC.dylib
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/GTMSessionFetcher.framework/Resources ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/GTMSessionFetcher.framework/Resources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/GTMSessionFetcher.framework/Versions/A/_CodeSignature/CodeResources ... 
+2019-07-19 03:47:33 +0000  2514 bytes for ./Contents/Frameworks/GTMSessionFetcher.framework/Versions/A/_CodeSignature/CodeResources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/GTMSessionFetcher.framework/Versions/A/Resources/Info.plist ... 
+2019-07-19 03:47:33 +0000  1250 bytes for ./Contents/Frameworks/GTMSessionFetcher.framework/Versions/A/Resources/Info.plist
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/GTMSessionFetcher.framework/Versions/A/GTMSessionFetcher ... 
+2019-07-19 03:47:33 +0000  407440 bytes for ./Contents/Frameworks/GTMSessionFetcher.framework/Versions/A/GTMSessionFetcher
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/GTMSessionFetcher.framework/Versions/Current ... 
+linked ./Contents/Frameworks/GTMSessionFetcher.framework/Versions/Current
+copying symlink ./Contents/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher
+copying file ./Contents/Frameworks/libswiftCore.dylib ... 
+2019-07-19 03:47:33 +0000  6553216 bytes for ./Contents/Frameworks/libswiftCore.dylib
+copying file ./Contents/Frameworks/libswiftCoreGraphics.dylib ... 
+2019-07-19 03:47:33 +0000  202112 bytes for ./Contents/Frameworks/libswiftCoreGraphics.dylib
+copying file ./Contents/Frameworks/libswiftMetal.dylib ... 
+2019-07-19 03:47:33 +0000  92400 bytes for ./Contents/Frameworks/libswiftMetal.dylib
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/libswiftCoreData.dylib ... 
+2019-07-19 03:47:33 +0000  98400 bytes for ./Contents/Frameworks/libswiftCoreData.dylib
+copying file ./Contents/Frameworks/libswiftDispatch.dylib ... 
+2019-07-19 03:47:33 +0000  345920 bytes for ./Contents/Frameworks/libswiftDispatch.dylib
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/libswiftos.dylib ... 
+2019-07-19 03:47:33 +0000  74624 bytes for ./Contents/Frameworks/libswiftos.dylib
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/SocketIO.framework/Resources ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/SocketIO.framework/Resources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/SocketIO.framework/Versions/A/_CodeSignature/CodeResources ... 
+2019-07-19 03:47:33 +0000  2514 bytes for ./Contents/Frameworks/SocketIO.framework/Versions/A/_CodeSignature/CodeResources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/SocketIO.framework/Versions/A/Resources/Info.plist ... 
+2019-07-19 03:47:33 +0000  1224 bytes for ./Contents/Frameworks/SocketIO.framework/Versions/A/Resources/Info.plist
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/SocketIO.framework/Versions/A/SocketIO ... 
+2019-07-19 03:47:33 +0000  897360 bytes for ./Contents/Frameworks/SocketIO.framework/Versions/A/SocketIO
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/SocketIO.framework/Versions/Current ... 
+linked ./Contents/Frameworks/SocketIO.framework/Versions/Current
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/SocketIO.framework/SocketIO ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/SocketIO.framework/SocketIO
+copying file ./Contents/Frameworks/libswiftCoreFoundation.dylib ... 
+2019-07-19 03:47:33 +0000  41120 bytes for ./Contents/Frameworks/libswiftCoreFoundation.dylib
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/Starscream.framework/Resources ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/Starscream.framework/Resources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/Starscream.framework/Versions/A/_CodeSignature/CodeResources ... 
+2019-07-19 03:47:33 +0000  2514 bytes for ./Contents/Frameworks/Starscream.framework/Versions/A/_CodeSignature/CodeResources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/Starscream.framework/Versions/A/Resources/Info.plist ... 
+2019-07-19 03:47:33 +0000  1229 bytes for ./Contents/Frameworks/Starscream.framework/Versions/A/Resources/Info.plist
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/Starscream.framework/Versions/A/Starscream ... 
+2019-07-19 03:47:33 +0000  562224 bytes for ./Contents/Frameworks/Starscream.framework/Versions/A/Starscream
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/Starscream.framework/Versions/Current ... 
+linked ./Contents/Frameworks/Starscream.framework/Versions/Current
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/Starscream.framework/Starscream ... 
+linked ./Contents/Frameworks/Starscream.framework/Starscream
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/libswiftDarwin.dylib ... 
+2019-07-19 03:47:33 +0000  106432 bytes for ./Contents/Frameworks/libswiftDarwin.dylib
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/GoogleToolboxForMac.framework/Resources ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/GoogleToolboxForMac.framework/Resources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A/_CodeSignature/CodeResources ... 
+2019-07-19 03:47:33 +0000  2514 bytes for ./Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A/_CodeSignature/CodeResources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A/Resources/Info.plist ... 
+2019-07-19 03:47:33 +0000  1256 bytes for ./Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A/Resources/Info.plist
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A/GoogleToolboxForMac ... 
+2019-07-19 03:47:33 +0000  86288 bytes for ./Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A/GoogleToolboxForMac
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/GoogleToolboxForMac.framework/Versions/Current ... 
+linked ./Contents/Frameworks/GoogleToolboxForMac.framework/Versions/Current
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac ... 
+linked ./Contents/Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/libswiftQuartzCore.dylib ... 
+2019-07-19 03:47:33 +0000  58368 bytes for ./Contents/Frameworks/libswiftQuartzCore.dylib
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/Uploadcare.framework/Resources ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/Uploadcare.framework/Resources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/Uploadcare.framework/Versions/A/_CodeSignature/CodeResources ... 
+2019-07-19 03:47:33 +0000  2442 bytes for ./Contents/Frameworks/Uploadcare.framework/Versions/A/_CodeSignature/CodeResources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/Uploadcare.framework/Versions/A/Resources/Info.plist ... 
+2019-07-19 03:47:33 +0000  1229 bytes for ./Contents/Frameworks/Uploadcare.framework/Versions/A/Resources/Info.plist
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/Uploadcare.framework/Versions/A/Uploadcare ... 
+2019-07-19 03:47:33 +0000  112304 bytes for ./Contents/Frameworks/Uploadcare.framework/Versions/A/Uploadcare
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/Uploadcare.framework/Versions/Current ... 
+linked ./Contents/Frameworks/Uploadcare.framework/Versions/Current
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/Uploadcare.framework/Uploadcare ... 
+linked ./Contents/Frameworks/Uploadcare.framework/Uploadcare
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/libswiftIOKit.dylib ... 
+2019-07-19 03:47:33 +0000  45008 bytes for ./Contents/Frameworks/libswiftIOKit.dylib
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/leveldb.framework/leveldb ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/leveldb.framework/leveldb
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/leveldb.framework/Resources ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/leveldb.framework/Resources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/leveldb.framework/Versions/A/_CodeSignature/CodeResources ... 
+2019-07-19 03:47:33 +0000  2514 bytes for ./Contents/Frameworks/leveldb.framework/Versions/A/_CodeSignature/CodeResources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/leveldb.framework/Versions/A/leveldb ... 
+2019-07-19 03:47:33 +0000  583952 bytes for ./Contents/Frameworks/leveldb.framework/Versions/A/leveldb
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/leveldb.framework/Versions/A/Resources/Info.plist ... 
+2019-07-19 03:47:33 +0000  1221 bytes for ./Contents/Frameworks/leveldb.framework/Versions/A/Resources/Info.plist
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/leveldb.framework/Versions/Current ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/leveldb.framework/Versions/Current
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/libswiftCoreAudio.dylib ... 
+2019-07-19 03:47:33 +0000  90016 bytes for ./Contents/Frameworks/libswiftCoreAudio.dylib
+copying file ./Contents/Frameworks/libswiftAVFoundation.dylib ... 
+2019-07-19 03:47:33 +0000  131472 bytes for ./Contents/Frameworks/libswiftAVFoundation.dylib
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/Alamofire.framework/Alamofire ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/Alamofire.framework/Alamofire
+copying symlink ./Contents/Frameworks/Alamofire.framework/Resources ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/Alamofire.framework/Resources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/Alamofire.framework/Versions/A/_CodeSignature/CodeResources ... 
+2019-07-19 03:47:33 +0000  2514 bytes for ./Contents/Frameworks/Alamofire.framework/Versions/A/_CodeSignature/CodeResources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/Alamofire.framework/Versions/A/Alamofire ... 
+2019-07-19 03:47:33 +0000  1356208 bytes for ./Contents/Frameworks/Alamofire.framework/Versions/A/Alamofire
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/Alamofire.framework/Versions/A/Resources/Info.plist ... 
+2019-07-19 03:47:33 +0000  1226 bytes for ./Contents/Frameworks/Alamofire.framework/Versions/A/Resources/Info.plist
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/Alamofire.framework/Versions/Current ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/Alamofire.framework/Versions/Current
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/libswiftFoundation.dylib ... 
+2019-07-19 03:47:33 +0000  3065280 bytes for ./Contents/Frameworks/libswiftFoundation.dylib
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/libswiftCoreMedia.dylib ... 
+2019-07-19 03:47:33 +0000  86688 bytes for ./Contents/Frameworks/libswiftCoreMedia.dylib
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/libswiftCoreLocation.dylib ... 
+2019-07-19 03:47:33 +0000  53792 bytes for ./Contents/Frameworks/libswiftCoreLocation.dylib
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/SwiftyDropbox.framework/Resources ... 
+2019-07-19 03:47:33 +0000  linked ./Contents/Frameworks/SwiftyDropbox.framework/Resources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/SwiftyDropbox.framework/Versions/A/_CodeSignature/CodeResources ... 
+2019-07-19 03:47:33 +0000  2514 bytes for ./Contents/Frameworks/SwiftyDropbox.framework/Versions/A/_CodeSignature/CodeResources
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/SwiftyDropbox.framework/Versions/A/Resources/Info.plist ... 
+2019-07-19 03:47:33 +0000  1238 bytes for ./Contents/Frameworks/SwiftyDropbox.framework/Versions/A/Resources/Info.plist
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/SwiftyDropbox.framework/Versions/A/SwiftyDropbox ... 
+2019-07-19 03:47:33 +0000  24592464 bytes for ./Contents/Frameworks/SwiftyDropbox.framework/Versions/A/SwiftyDropbox
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/SwiftyDropbox.framework/Versions/Current ... 
+linked ./Contents/Frameworks/SwiftyDropbox.framework/Versions/Current
+2019-07-19 03:47:33 +0000  copying symlink ./Contents/Frameworks/SwiftyDropbox.framework/SwiftyDropbox ... 
+linked ./Contents/Frameworks/SwiftyDropbox.framework/SwiftyDropbox
+2019-07-19 03:47:33 +0000  copying file ./Contents/Frameworks/libswiftsimd.dylib ... 
+2019-07-19 03:47:33 +0000  602432 bytes for ./Contents/Frameworks/libswiftsimd.dylib
+2019-07-19 03:47:33 +0000  copying file ./Contents/Info.plist ... 
+2019-07-19 03:47:33 +0000  2892 bytes for ./Contents/Info.plist
+2019-07-19 03:47:33 +0000  copying file ./Contents/PkgInfo ... 
+2019-07-19 03:47:33 +0000  8 bytes for ./Contents/PkgInfo
+2019-07-19 03:47:33 +0000  /usr/bin/ditto exited with 0
+2019-07-19 03:47:33 +0000  Processing step: IDEDistributionEmbedProfileStep
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410bf9e0 'org.cocoapods.Alamofire' '<DVTFilePath:0x7fc43f9e91f0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/Alamofire.framework/Versions/A'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4411244a0 'org.cocoapods.GTMSessionFetcher' '<DVTFilePath:0x7fc439fe9520:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/GTMSessionFetcher.framework/Versions/A'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410f6520 'org.cocoapods.GoogleToolboxForMac' '<DVTFilePath:0x7fc43fbd1be0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc441137f00 'org.cocoapods.Reachability' '<DVTFilePath:0x7fc43c685810:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/Reachability.framework/Versions/A'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc44110b140 'org.cocoapods.SocketIO' '<DVTFilePath:0x7fc43b4be950:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/SocketIO.framework/Versions/A'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc438031cf0 'org.cocoapods.Starscream' '<DVTFilePath:0x7fc43c71ae40:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/Starscream.framework/Versions/A'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410af8b0 'org.cocoapods.SwiftyDropbox' '<DVTFilePath:0x7fc43c7ea4b0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/SwiftyDropbox.framework/Versions/A'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc44111e510 'org.cocoapods.SwiftyJSON' '<DVTFilePath:0x7fc439bafb70:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/SwiftyJSON.framework/Versions/A'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410c67c0 'org.cocoapods.Uploadcare' '<DVTFilePath:0x7fc43bf8f660:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/Uploadcare.framework/Versions/A'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc441100870 'org.cocoapods.leveldb' '<DVTFilePath:0x7fc43d17c1c0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/leveldb.framework/Versions/A'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410c36c0 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fc43eecf660:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftAVFoundation.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc44113d5c0 'com.apple.dt.runtime.swiftAppKit' '<DVTFilePath:0x7fc43ffe14a0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftAppKit.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410de430 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc43e6c8230:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCore.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410af7e0 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fc43fbc71e0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreAudio.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410dd700 'com.apple.dt.runtime.swiftCoreData' '<DVTFilePath:0x7fc43eacbca0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreData.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410cac40 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc43bfbbfe0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreFoundation.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc441123bd0 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc439b63c80:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreGraphics.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410bbcd0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fc441069f10:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreImage.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410f25c0 'com.apple.dt.runtime.swiftCoreLocation' '<DVTFilePath:0x7fc43ff7a6d0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreLocation.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc43fba4d20 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fc43c6db1b0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreMedia.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410dc9a0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc43e6b84d0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftDarwin.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc441138d10 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc439f5bb90:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftDispatch.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410c83c0 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc43c6dd860:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftFoundation.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410e9e20 'com.apple.dt.runtime.swiftIOKit' '<DVTFilePath:0x7fc43bf8ecd0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftIOKit.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410e5ba0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fc439ca7dd0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftMetal.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc43e0c8780 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc441067bd0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftObjectiveC.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc43b976160 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fc43ba5ff80:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftQuartzCore.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410a3730 'com.apple.dt.runtime.swiftXPC' '<DVTFilePath:0x7fc43ba86c50:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftXPC.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc43d08f7a0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fc43ef307e0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftos.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4410ee9b0 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fc43fb4f180:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftsimd.dylib'>'>
+2019-07-19 03:47:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4411421f0 'com.burcumirza.Image-Uploader' '<DVTFilePath:0x7fc43f80dc30:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app'>'>
+2019-07-19 03:47:33 +0000  Processing step: IDEDistributionItemRemovalStep
+2019-07-19 03:47:33 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2019-07-19 03:47:33 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2019-07-19 03:47:33 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2019-07-19 03:47:33 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2019-07-19 03:47:34 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2019-07-19 03:47:34 +0000  Processing step: IDEDistributionSymbolsStep
+2019-07-19 03:47:34 +0000  Processing symbols for A
+2019-07-19 03:47:34 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Alamofire.framework/Versions/A' '--link-dest' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Alamofire.framework/Versions' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:34 +0000  building file list ... 
+2019-07-19 03:47:34 +0000   0 files...2019-07-19 03:47:34 +0000  6 files to consider
+2019-07-19 03:47:34 +0000  A/
+2019-07-19 03:47:34 +0000  A/Resources/
+A/_CodeSignature/
+2019-07-19 03:47:34 +0000  
+sent 240 bytes  received 38 bytes  556.00 bytes/sec
+total size is 1.30M  speedup is 4891.90
+2019-07-19 03:47:34 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:34 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '--link-dest' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:34 +0000  building file list ... 
+2019-07-19 03:47:34 +0000   0 files...2019-07-19 03:47:34 +0000  67 files to consider
+2019-07-19 03:47:34 +0000  ./
+2019-07-19 03:47:34 +0000  Alamofire.framework.dSYM/
+Alamofire.framework.dSYM/Contents/
+2019-07-19 03:47:34 +0000  Alamofire.framework.dSYM/Contents/Resources/
+Alamofire.framework.dSYM/Contents/Resources/DWARF/
+GTMSessionFetcher.framework.dSYM/
+GTMSessionFetcher.framework.dSYM/Contents/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/DWARF/
+GoogleToolboxForMac.framework.dSYM/
+GoogleToolboxForMac.framework.dSYM/Contents/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/DWARF/
+Image Uploader.app.dSYM/
+Image Uploader.app.dSYM/Contents/
+Image Uploader.app.dSYM/Contents/Resources/
+Image Uploader.app.dSYM/Contents/Resources/DWARF/
+Reachability.framework.dSYM/
+Reachability.framework.dSYM/Contents/
+Reachability.framework.dSYM/Contents/Resources/
+Reachability.framework.dSYM/Contents/Resources/DWARF/
+SocketIO.framework.dSYM/
+SocketIO.framework.dSYM/Contents/
+SocketIO.framework.dSYM/Contents/Resources/
+SocketIO.framework.dSYM/Contents/Resources/DWARF/
+Starscream.framework.dSYM/
+Starscream.framework.dSYM/Contents/
+Starscream.framework.dSYM/Contents/Resources/
+Starscream.framework.dSYM/Contents/Resources/DWARF/
+SwiftyDropbox.framework.dSYM/
+2019-07-19 03:47:34 +0000  SwiftyDropbox.framework.dSYM/Contents/
+SwiftyDropbox.framework.dSYM/Contents/Resources/
+SwiftyDropbox.framework.dSYM/Contents/Resources/DWARF/
+SwiftyJSON.framework.dSYM/
+SwiftyJSON.framework.dSYM/Contents/
+SwiftyJSON.framework.dSYM/Contents/Resources/
+SwiftyJSON.framework.dSYM/Contents/Resources/DWARF/
+Uploadcare.framework.dSYM/
+Uploadcare.framework.dSYM/Contents/
+Uploadcare.framework.dSYM/Contents/Resources/
+Uploadcare.framework.dSYM/Contents/Resources/DWARF/
+leveldb.framework.dSYM/
+leveldb.framework.dSYM/Contents/
+leveldb.framework.dSYM/Contents/Resources/
+leveldb.framework.dSYM/Contents/Resources/DWARF/
+2019-07-19 03:47:34 +0000  
+sent 2.27K bytes  received 290 bytes  5.12K bytes/sec
+total size is 64.07M  speedup is 25653.85
+2019-07-19 03:47:34 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:34 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/symbols '-noTextInSOD' '-noDaemon' '-arch' 'all' '-symbolsPackageDir' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Symbols' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire'
+2019-07-19 03:47:34 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire [x86_64, 0.071332 seconds]:
+2019-07-19 03:47:34 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with 0
+2019-07-19 03:47:34 +0000  Processing symbols for A
+2019-07-19 03:47:34 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/GTMSessionFetcher.framework/Versions/A' '--link-dest' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/GTMSessionFetcher.framework/Versions' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:34 +0000  building file list ... 
+2019-07-19 03:47:34 +0000   0 files...2019-07-19 03:47:34 +0000  6 files to consider
+2019-07-19 03:47:34 +0000  A/
+2019-07-19 03:47:34 +0000  A/Resources/
+2019-07-19 03:47:34 +0000  A/Resources/Info.plist
+       1.22K 100%    0.00kB/s    0:00:00       1.22K 100%    0.00kB/s    0:00:00 (xfer#1, to-check=2/6)
+A/_CodeSignature/
+2019-07-19 03:47:34 +0000  
+sent 1.51K bytes  received 66 bytes  3.15K bytes/sec
+total size is 401.57K  speedup is 255.09
+2019-07-19 03:47:34 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:34 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '--link-dest' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:34 +0000  building file list ... 
+2019-07-19 03:47:34 +0000   0 files...2019-07-19 03:47:34 +0000  67 files to consider
+2019-07-19 03:47:34 +0000  ./
+2019-07-19 03:47:34 +0000  Alamofire.framework.dSYM/
+Alamofire.framework.dSYM/Contents/
+2019-07-19 03:47:34 +0000  Alamofire.framework.dSYM/Contents/Resources/
+Alamofire.framework.dSYM/Contents/Resources/DWARF/
+GTMSessionFetcher.framework.dSYM/
+GTMSessionFetcher.framework.dSYM/Contents/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/DWARF/
+GoogleToolboxForMac.framework.dSYM/
+GoogleToolboxForMac.framework.dSYM/Contents/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/DWARF/
+Image Uploader.app.dSYM/
+Image Uploader.app.dSYM/Contents/
+Image Uploader.app.dSYM/Contents/Resources/
+Image Uploader.app.dSYM/Contents/Resources/DWARF/
+Reachability.framework.dSYM/
+Reachability.framework.dSYM/Contents/
+Reachability.framework.dSYM/Contents/Resources/
+Reachability.framework.dSYM/Contents/Resources/DWARF/
+2019-07-19 03:47:34 +0000  SocketIO.framework.dSYM/
+SocketIO.framework.dSYM/Contents/
+SocketIO.framework.dSYM/Contents/Resources/
+SocketIO.framework.dSYM/Contents/Resources/DWARF/
+Starscream.framework.dSYM/
+Starscream.framework.dSYM/Contents/
+Starscream.framework.dSYM/Contents/Resources/
+Starscream.framework.dSYM/Contents/Resources/DWARF/
+SwiftyDropbox.framework.dSYM/
+SwiftyDropbox.framework.dSYM/Contents/
+SwiftyDropbox.framework.dSYM/Contents/Resources/
+SwiftyDropbox.framework.dSYM/Contents/Resources/DWARF/
+SwiftyJSON.framework.dSYM/
+SwiftyJSON.framework.dSYM/Contents/
+2019-07-19 03:47:34 +0000  SwiftyJSON.framework.dSYM/Contents/Resources/
+SwiftyJSON.framework.dSYM/Contents/Resources/DWARF/
+Uploadcare.framework.dSYM/
+Uploadcare.framework.dSYM/Contents/
+Uploadcare.framework.dSYM/Contents/Resources/
+Uploadcare.framework.dSYM/Contents/Resources/DWARF/
+leveldb.framework.dSYM/
+leveldb.framework.dSYM/Contents/
+leveldb.framework.dSYM/Contents/Resources/
+leveldb.framework.dSYM/Contents/Resources/DWARF/
+2019-07-19 03:47:34 +0000  
+sent 2.40K bytes  received 422 bytes  5.63K bytes/sec
+total size is 64.07M  speedup is 23304.70
+2019-07-19 03:47:34 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:34 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/symbols '-noTextInSOD' '-noDaemon' '-arch' 'all' '-symbolsPackageDir' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Symbols' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire'
+2019-07-19 03:47:34 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire [x86_64, 0.032768 seconds]:
+2019-07-19 03:47:34 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with 0
+2019-07-19 03:47:34 +0000  Processing symbols for A
+2019-07-19 03:47:34 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A' '--link-dest' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/GoogleToolboxForMac.framework/Versions' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:34 +0000  building file list ... 
+2019-07-19 03:47:34 +0000   0 files...2019-07-19 03:47:34 +0000  6 files to consider
+2019-07-19 03:47:34 +0000  A/
+2019-07-19 03:47:34 +0000  A/Resources/
+2019-07-19 03:47:34 +0000  A/Resources/Info.plist
+       1.23K 100%    0.00kB/s    0:00:00       1.23K 100%    0.00kB/s    0:00:00 (xfer#1, to-check=2/6)
+A/_CodeSignature/
+2019-07-19 03:47:34 +0000  
+sent 1.53K bytes  received 66 bytes  3.18K bytes/sec
+total size is 87.95K  speedup is 55.32
+2019-07-19 03:47:34 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:34 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '--link-dest' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:34 +0000  building file list ... 
+2019-07-19 03:47:34 +0000   0 files...2019-07-19 03:47:34 +0000  67 files to consider
+2019-07-19 03:47:34 +0000  ./
+2019-07-19 03:47:34 +0000  Alamofire.framework.dSYM/
+Alamofire.framework.dSYM/Contents/
+2019-07-19 03:47:34 +0000  Alamofire.framework.dSYM/Contents/Resources/
+Alamofire.framework.dSYM/Contents/Resources/DWARF/
+GTMSessionFetcher.framework.dSYM/
+GTMSessionFetcher.framework.dSYM/Contents/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/DWARF/
+GoogleToolboxForMac.framework.dSYM/
+GoogleToolboxForMac.framework.dSYM/Contents/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/DWARF/
+Image Uploader.app.dSYM/
+Image Uploader.app.dSYM/Contents/
+Image Uploader.app.dSYM/Contents/Resources/
+Image Uploader.app.dSYM/Contents/Resources/DWARF/
+Reachability.framework.dSYM/
+Reachability.framework.dSYM/Contents/
+Reachability.framework.dSYM/Contents/Resources/
+Reachability.framework.dSYM/Contents/Resources/DWARF/
+2019-07-19 03:47:34 +0000  SocketIO.framework.dSYM/
+SocketIO.framework.dSYM/Contents/
+SocketIO.framework.dSYM/Contents/Resources/
+SocketIO.framework.dSYM/Contents/Resources/DWARF/
+Starscream.framework.dSYM/
+Starscream.framework.dSYM/Contents/
+Starscream.framework.dSYM/Contents/Resources/
+Starscream.framework.dSYM/Contents/Resources/DWARF/
+SwiftyDropbox.framework.dSYM/
+SwiftyDropbox.framework.dSYM/Contents/
+SwiftyDropbox.framework.dSYM/Contents/Resources/
+SwiftyDropbox.framework.dSYM/Contents/Resources/DWARF/
+SwiftyJSON.framework.dSYM/
+SwiftyJSON.framework.dSYM/Contents/
+2019-07-19 03:47:34 +0000  SwiftyJSON.framework.dSYM/Contents/Resources/
+SwiftyJSON.framework.dSYM/Contents/Resources/DWARF/
+Uploadcare.framework.dSYM/
+Uploadcare.framework.dSYM/Contents/
+Uploadcare.framework.dSYM/Contents/Resources/
+Uploadcare.framework.dSYM/Contents/Resources/DWARF/
+leveldb.framework.dSYM/
+leveldb.framework.dSYM/Contents/
+leveldb.framework.dSYM/Contents/Resources/
+leveldb.framework.dSYM/Contents/Resources/DWARF/
+2019-07-19 03:47:34 +0000  
+sent 2.40K bytes  received 422 bytes  5.63K bytes/sec
+total size is 64.07M  speedup is 23304.70
+2019-07-19 03:47:34 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:34 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/symbols '-noTextInSOD' '-noDaemon' '-arch' 'all' '-symbolsPackageDir' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Symbols' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire'
+2019-07-19 03:47:34 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire [x86_64, 0.033533 seconds]:
+2019-07-19 03:47:34 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with 0
+2019-07-19 03:47:34 +0000  Processing symbols for A
+2019-07-19 03:47:34 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Reachability.framework/Versions/A' '--link-dest' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Reachability.framework/Versions' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:34 +0000  building file list ... 
+2019-07-19 03:47:34 +0000   0 files...2019-07-19 03:47:34 +0000  6 files to consider
+2019-07-19 03:47:34 +0000  A/
+2019-07-19 03:47:34 +0000  A/Resources/
+2019-07-19 03:47:34 +0000  A/Resources/Info.plist
+       1.21K 100%    0.00kB/s    0:00:00       1.21K 100%    0.00kB/s    0:00:00 (xfer#1, to-check=2/6)
+A/_CodeSignature/
+A/_CodeSignature/CodeResources
+2019-07-19 03:47:34 +0000         2.46K 100%    2.40MB/s    0:00:00       2.46K 100%    2.40MB/s    0:00:00 (xfer#2, to-check=0/6)
+2019-07-19 03:47:34 +0000  
+sent 3.98K bytes  received 82 bytes  8.12K bytes/sec
+total size is 166.71K  speedup is 41.04
+2019-07-19 03:47:34 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:34 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '--link-dest' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:34 +0000  building file list ... 
+2019-07-19 03:47:34 +0000   0 files...2019-07-19 03:47:34 +0000  67 files to consider
+2019-07-19 03:47:34 +0000  ./
+2019-07-19 03:47:34 +0000  Alamofire.framework.dSYM/
+Alamofire.framework.dSYM/Contents/
+Alamofire.framework.dSYM/Contents/Resources/
+2019-07-19 03:47:34 +0000  Alamofire.framework.dSYM/Contents/Resources/DWARF/
+GTMSessionFetcher.framework.dSYM/
+GTMSessionFetcher.framework.dSYM/Contents/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/DWARF/
+GoogleToolboxForMac.framework.dSYM/
+GoogleToolboxForMac.framework.dSYM/Contents/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/DWARF/
+Image Uploader.app.dSYM/
+Image Uploader.app.dSYM/Contents/
+Image Uploader.app.dSYM/Contents/Resources/
+Image Uploader.app.dSYM/Contents/Resources/DWARF/
+Reachability.framework.dSYM/
+Reachability.framework.dSYM/Contents/
+Reachability.framework.dSYM/Contents/Resources/
+Reachability.framework.dSYM/Contents/Resources/DWARF/
+SocketIO.framework.dSYM/
+2019-07-19 03:47:34 +0000  SocketIO.framework.dSYM/Contents/
+SocketIO.framework.dSYM/Contents/Resources/
+SocketIO.framework.dSYM/Contents/Resources/DWARF/
+Starscream.framework.dSYM/
+Starscream.framework.dSYM/Contents/
+Starscream.framework.dSYM/Contents/Resources/
+Starscream.framework.dSYM/Contents/Resources/DWARF/
+SwiftyDropbox.framework.dSYM/
+SwiftyDropbox.framework.dSYM/Contents/
+SwiftyDropbox.framework.dSYM/Contents/Resources/
+SwiftyDropbox.framework.dSYM/Contents/Resources/DWARF/
+SwiftyJSON.framework.dSYM/
+SwiftyJSON.framework.dSYM/Contents/
+2019-07-19 03:47:34 +0000  SwiftyJSON.framework.dSYM/Contents/Resources/
+SwiftyJSON.framework.dSYM/Contents/Resources/DWARF/
+Uploadcare.framework.dSYM/
+Uploadcare.framework.dSYM/Contents/
+Uploadcare.framework.dSYM/Contents/Resources/
+Uploadcare.framework.dSYM/Contents/Resources/DWARF/
+leveldb.framework.dSYM/
+leveldb.framework.dSYM/Contents/
+leveldb.framework.dSYM/Contents/Resources/
+leveldb.framework.dSYM/Contents/Resources/DWARF/
+2019-07-19 03:47:34 +0000  
+sent 2.40K bytes  received 422 bytes  5.63K bytes/sec
+total size is 64.07M  speedup is 23304.70
+2019-07-19 03:47:34 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:34 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/symbols '-noTextInSOD' '-noDaemon' '-arch' 'all' '-symbolsPackageDir' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Symbols' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire'
+2019-07-19 03:47:35 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire [x86_64, 0.032654 seconds]:
+2019-07-19 03:47:35 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with 0
+2019-07-19 03:47:35 +0000  Processing symbols for A
+2019-07-19 03:47:35 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SocketIO.framework/Versions/A' '--link-dest' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SocketIO.framework/Versions' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:35 +0000  building file list ... 
+2019-07-19 03:47:35 +0000   0 files...2019-07-19 03:47:35 +0000  6 files to consider
+2019-07-19 03:47:35 +0000  A/
+2019-07-19 03:47:35 +0000  A/Resources/
+2019-07-19 03:47:35 +0000  A/Resources/Info.plist
+       1.20K 100%    0.00kB/s    0:00:00       1.20K 100%    0.00kB/s    0:00:00 (xfer#1, to-check=2/6)
+A/_CodeSignature/
+2019-07-19 03:47:35 +0000  
+sent 1.48K bytes  received 66 bytes  3.08K bytes/sec
+total size is 879.98K  speedup is 571.40
+2019-07-19 03:47:35 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:35 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '--link-dest' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:35 +0000  building file list ... 
+2019-07-19 03:47:35 +0000   0 files...2019-07-19 03:47:35 +0000  67 files to consider
+2019-07-19 03:47:35 +0000  ./
+2019-07-19 03:47:35 +0000  Alamofire.framework.dSYM/
+Alamofire.framework.dSYM/Contents/
+2019-07-19 03:47:35 +0000  Alamofire.framework.dSYM/Contents/Resources/
+Alamofire.framework.dSYM/Contents/Resources/DWARF/
+GTMSessionFetcher.framework.dSYM/
+GTMSessionFetcher.framework.dSYM/Contents/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/DWARF/
+GoogleToolboxForMac.framework.dSYM/
+GoogleToolboxForMac.framework.dSYM/Contents/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/DWARF/
+Image Uploader.app.dSYM/
+Image Uploader.app.dSYM/Contents/
+Image Uploader.app.dSYM/Contents/Resources/
+Image Uploader.app.dSYM/Contents/Resources/DWARF/
+Reachability.framework.dSYM/
+Reachability.framework.dSYM/Contents/
+Reachability.framework.dSYM/Contents/Resources/
+Reachability.framework.dSYM/Contents/Resources/DWARF/
+SocketIO.framework.dSYM/
+2019-07-19 03:47:35 +0000  SocketIO.framework.dSYM/Contents/
+SocketIO.framework.dSYM/Contents/Resources/
+SocketIO.framework.dSYM/Contents/Resources/DWARF/
+Starscream.framework.dSYM/
+Starscream.framework.dSYM/Contents/
+Starscream.framework.dSYM/Contents/Resources/
+Starscream.framework.dSYM/Contents/Resources/DWARF/
+SwiftyDropbox.framework.dSYM/
+SwiftyDropbox.framework.dSYM/Contents/
+SwiftyDropbox.framework.dSYM/Contents/Resources/
+SwiftyDropbox.framework.dSYM/Contents/Resources/DWARF/
+SwiftyJSON.framework.dSYM/
+SwiftyJSON.framework.dSYM/Contents/
+SwiftyJSON.framework.dSYM/Contents/Resources/
+2019-07-19 03:47:35 +0000  SwiftyJSON.framework.dSYM/Contents/Resources/DWARF/
+Uploadcare.framework.dSYM/
+Uploadcare.framework.dSYM/Contents/
+Uploadcare.framework.dSYM/Contents/Resources/
+Uploadcare.framework.dSYM/Contents/Resources/DWARF/
+leveldb.framework.dSYM/
+leveldb.framework.dSYM/Contents/
+leveldb.framework.dSYM/Contents/Resources/
+leveldb.framework.dSYM/Contents/Resources/DWARF/
+2019-07-19 03:47:35 +0000  
+sent 2.40K bytes  received 422 bytes  5.63K bytes/sec
+total size is 64.07M  speedup is 23304.70
+2019-07-19 03:47:35 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:35 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/symbols '-noTextInSOD' '-noDaemon' '-arch' 'all' '-symbolsPackageDir' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Symbols' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire'
+2019-07-19 03:47:35 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire [x86_64, 0.033800 seconds]:
+2019-07-19 03:47:35 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with 0
+2019-07-19 03:47:35 +0000  Processing symbols for A
+2019-07-19 03:47:35 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Starscream.framework/Versions/A' '--link-dest' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Starscream.framework/Versions' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:35 +0000  building file list ... 
+2019-07-19 03:47:35 +0000   0 files...2019-07-19 03:47:35 +0000  6 files to consider
+2019-07-19 03:47:35 +0000  A/
+2019-07-19 03:47:35 +0000  A/Resources/
+2019-07-19 03:47:35 +0000  A/Resources/Info.plist
+       1.20K 100%    0.00kB/s    0:00:00       1.20K 100%    0.00kB/s    0:00:00 (xfer#1, to-check=2/6)
+A/_CodeSignature/
+2019-07-19 03:47:35 +0000  
+sent 1.48K bytes  received 66 bytes  3.09K bytes/sec
+total size is 552.70K  speedup is 357.30
+2019-07-19 03:47:35 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:35 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '--link-dest' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:35 +0000  building file list ... 
+2019-07-19 03:47:35 +0000   0 files...2019-07-19 03:47:35 +0000  67 files to consider
+2019-07-19 03:47:35 +0000  ./
+2019-07-19 03:47:35 +0000  Alamofire.framework.dSYM/
+Alamofire.framework.dSYM/Contents/
+Alamofire.framework.dSYM/Contents/Resources/
+2019-07-19 03:47:35 +0000  Alamofire.framework.dSYM/Contents/Resources/DWARF/
+GTMSessionFetcher.framework.dSYM/
+GTMSessionFetcher.framework.dSYM/Contents/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/DWARF/
+GoogleToolboxForMac.framework.dSYM/
+GoogleToolboxForMac.framework.dSYM/Contents/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/DWARF/
+Image Uploader.app.dSYM/
+Image Uploader.app.dSYM/Contents/
+Image Uploader.app.dSYM/Contents/Resources/
+Image Uploader.app.dSYM/Contents/Resources/DWARF/
+Reachability.framework.dSYM/
+Reachability.framework.dSYM/Contents/
+2019-07-19 03:47:35 +0000  Reachability.framework.dSYM/Contents/Resources/
+Reachability.framework.dSYM/Contents/Resources/DWARF/
+SocketIO.framework.dSYM/
+SocketIO.framework.dSYM/Contents/
+SocketIO.framework.dSYM/Contents/Resources/
+SocketIO.framework.dSYM/Contents/Resources/DWARF/
+Starscream.framework.dSYM/
+Starscream.framework.dSYM/Contents/
+Starscream.framework.dSYM/Contents/Resources/
+Starscream.framework.dSYM/Contents/Resources/DWARF/
+SwiftyDropbox.framework.dSYM/
+SwiftyDropbox.framework.dSYM/Contents/
+SwiftyDropbox.framework.dSYM/Contents/Resources/
+SwiftyDropbox.framework.dSYM/Contents/Resources/DWARF/
+SwiftyJSON.framework.dSYM/
+SwiftyJSON.framework.dSYM/Contents/
+SwiftyJSON.framework.dSYM/Contents/Resources/
+SwiftyJSON.framework.dSYM/Contents/Resources/DWARF/
+Uploadcare.framework.dSYM/
+Uploadcare.framework.dSYM/Contents/
+Uploadcare.framework.dSYM/Contents/Resources/
+2019-07-19 03:47:35 +0000  Uploadcare.framework.dSYM/Contents/Resources/DWARF/
+leveldb.framework.dSYM/
+leveldb.framework.dSYM/Contents/
+leveldb.framework.dSYM/Contents/Resources/
+leveldb.framework.dSYM/Contents/Resources/DWARF/
+2019-07-19 03:47:35 +0000  
+sent 2.40K bytes  received 422 bytes  5.63K bytes/sec
+total size is 64.07M  speedup is 23304.70
+2019-07-19 03:47:35 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:35 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/symbols '-noTextInSOD' '-noDaemon' '-arch' 'all' '-symbolsPackageDir' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Symbols' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire'
+2019-07-19 03:47:35 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire [x86_64, 0.033173 seconds]:
+2019-07-19 03:47:35 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with 0
+2019-07-19 03:47:35 +0000  Processing symbols for A
+2019-07-19 03:47:35 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SwiftyDropbox.framework/Versions/A' '--link-dest' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SwiftyDropbox.framework/Versions' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:35 +0000  building file list ... 
+2019-07-19 03:47:35 +0000   0 files...2019-07-19 03:47:35 +0000  6 files to consider
+2019-07-19 03:47:35 +0000  A/
+2019-07-19 03:47:35 +0000  A/Resources/
+2019-07-19 03:47:35 +0000  A/Resources/Info.plist
+       1.21K 100%    0.00kB/s    0:00:00       1.21K 100%    0.00kB/s    0:00:00 (xfer#1, to-check=2/6)
+A/_CodeSignature/
+2019-07-19 03:47:35 +0000  
+sent 1.50K bytes  received 66 bytes  3.13K bytes/sec
+total size is 23.46M  speedup is 15334.30
+2019-07-19 03:47:35 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:35 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '--link-dest' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:35 +0000  building file list ... 
+2019-07-19 03:47:35 +0000   0 files...2019-07-19 03:47:35 +0000  67 files to consider
+2019-07-19 03:47:35 +0000  ./
+2019-07-19 03:47:35 +0000  Alamofire.framework.dSYM/
+Alamofire.framework.dSYM/Contents/
+2019-07-19 03:47:35 +0000  Alamofire.framework.dSYM/Contents/Resources/
+Alamofire.framework.dSYM/Contents/Resources/DWARF/
+GTMSessionFetcher.framework.dSYM/
+GTMSessionFetcher.framework.dSYM/Contents/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/DWARF/
+GoogleToolboxForMac.framework.dSYM/
+GoogleToolboxForMac.framework.dSYM/Contents/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/DWARF/
+Image Uploader.app.dSYM/
+Image Uploader.app.dSYM/Contents/
+Image Uploader.app.dSYM/Contents/Resources/
+Image Uploader.app.dSYM/Contents/Resources/DWARF/
+Reachability.framework.dSYM/
+2019-07-19 03:47:35 +0000  Reachability.framework.dSYM/Contents/
+Reachability.framework.dSYM/Contents/Resources/
+Reachability.framework.dSYM/Contents/Resources/DWARF/
+SocketIO.framework.dSYM/
+SocketIO.framework.dSYM/Contents/
+SocketIO.framework.dSYM/Contents/Resources/
+SocketIO.framework.dSYM/Contents/Resources/DWARF/
+Starscream.framework.dSYM/
+Starscream.framework.dSYM/Contents/
+Starscream.framework.dSYM/Contents/Resources/
+Starscream.framework.dSYM/Contents/Resources/DWARF/
+SwiftyDropbox.framework.dSYM/
+SwiftyDropbox.framework.dSYM/Contents/
+2019-07-19 03:47:35 +0000  SwiftyDropbox.framework.dSYM/Contents/Resources/
+SwiftyDropbox.framework.dSYM/Contents/Resources/DWARF/
+SwiftyJSON.framework.dSYM/
+SwiftyJSON.framework.dSYM/Contents/
+SwiftyJSON.framework.dSYM/Contents/Resources/
+SwiftyJSON.framework.dSYM/Contents/Resources/DWARF/
+Uploadcare.framework.dSYM/
+2019-07-19 03:47:35 +0000  Uploadcare.framework.dSYM/Contents/
+Uploadcare.framework.dSYM/Contents/Resources/
+Uploadcare.framework.dSYM/Contents/Resources/DWARF/
+leveldb.framework.dSYM/
+leveldb.framework.dSYM/Contents/
+leveldb.framework.dSYM/Contents/Resources/
+leveldb.framework.dSYM/Contents/Resources/DWARF/
+2019-07-19 03:47:35 +0000  
+sent 2.40K bytes  received 422 bytes  5.63K bytes/sec
+total size is 64.07M  speedup is 23304.70
+2019-07-19 03:47:35 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:35 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/symbols '-noTextInSOD' '-noDaemon' '-arch' 'all' '-symbolsPackageDir' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Symbols' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire'
+2019-07-19 03:47:35 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire [x86_64, 0.033551 seconds]:
+2019-07-19 03:47:35 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with 0
+2019-07-19 03:47:35 +0000  Processing symbols for A
+2019-07-19 03:47:35 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SwiftyJSON.framework/Versions/A' '--link-dest' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SwiftyJSON.framework/Versions' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:35 +0000  building file list ... 
+2019-07-19 03:47:35 +0000   0 files...2019-07-19 03:47:35 +0000  6 files to consider
+2019-07-19 03:47:35 +0000  A/
+2019-07-19 03:47:35 +0000  A/Resources/
+2019-07-19 03:47:35 +0000  A/Resources/Info.plist
+       1.20K 100%    0.00kB/s    0:00:00       1.20K 100%    0.00kB/s    0:00:00 (xfer#1, to-check=2/6)
+A/_CodeSignature/
+A/_CodeSignature/CodeResources
+       2.46K 100%    2.40MB/s    0:00:002019-07-19 03:47:35 +0000         2.46K 100%    2.40MB/s    0:00:00 (xfer#2, to-check=0/6)
+2019-07-19 03:47:35 +0000  
+sent 3.98K bytes  received 82 bytes  8.12K bytes/sec
+total size is 450.53K  speedup is 110.95
+2019-07-19 03:47:35 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:35 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '--link-dest' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:35 +0000  building file list ... 
+2019-07-19 03:47:35 +0000   0 files...2019-07-19 03:47:35 +0000  67 files to consider
+2019-07-19 03:47:35 +0000  ./
+2019-07-19 03:47:35 +0000  Alamofire.framework.dSYM/
+Alamofire.framework.dSYM/Contents/
+Alamofire.framework.dSYM/Contents/Resources/
+2019-07-19 03:47:35 +0000  Alamofire.framework.dSYM/Contents/Resources/DWARF/
+GTMSessionFetcher.framework.dSYM/
+GTMSessionFetcher.framework.dSYM/Contents/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/DWARF/
+GoogleToolboxForMac.framework.dSYM/
+GoogleToolboxForMac.framework.dSYM/Contents/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/DWARF/
+Image Uploader.app.dSYM/
+Image Uploader.app.dSYM/Contents/
+Image Uploader.app.dSYM/Contents/Resources/
+Image Uploader.app.dSYM/Contents/Resources/DWARF/
+Reachability.framework.dSYM/
+Reachability.framework.dSYM/Contents/
+2019-07-19 03:47:35 +0000  Reachability.framework.dSYM/Contents/Resources/
+Reachability.framework.dSYM/Contents/Resources/DWARF/
+SocketIO.framework.dSYM/
+SocketIO.framework.dSYM/Contents/
+SocketIO.framework.dSYM/Contents/Resources/
+SocketIO.framework.dSYM/Contents/Resources/DWARF/
+Starscream.framework.dSYM/
+Starscream.framework.dSYM/Contents/
+Starscream.framework.dSYM/Contents/Resources/
+Starscream.framework.dSYM/Contents/Resources/DWARF/
+SwiftyDropbox.framework.dSYM/
+SwiftyDropbox.framework.dSYM/Contents/
+SwiftyDropbox.framework.dSYM/Contents/Resources/
+2019-07-19 03:47:35 +0000  SwiftyDropbox.framework.dSYM/Contents/Resources/DWARF/
+SwiftyJSON.framework.dSYM/
+SwiftyJSON.framework.dSYM/Contents/
+SwiftyJSON.framework.dSYM/Contents/Resources/
+SwiftyJSON.framework.dSYM/Contents/Resources/DWARF/
+Uploadcare.framework.dSYM/
+Uploadcare.framework.dSYM/Contents/
+Uploadcare.framework.dSYM/Contents/Resources/
+Uploadcare.framework.dSYM/Contents/Resources/DWARF/
+leveldb.framework.dSYM/
+leveldb.framework.dSYM/Contents/
+leveldb.framework.dSYM/Contents/Resources/
+leveldb.framework.dSYM/Contents/Resources/DWARF/
+2019-07-19 03:47:35 +0000  
+sent 2.40K bytes  received 422 bytes  5.63K bytes/sec
+total size is 64.07M  speedup is 23304.70
+2019-07-19 03:47:35 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:35 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/symbols '-noTextInSOD' '-noDaemon' '-arch' 'all' '-symbolsPackageDir' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Symbols' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire'
+2019-07-19 03:47:35 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire [x86_64, 0.033116 seconds]:
+2019-07-19 03:47:35 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with 0
+2019-07-19 03:47:35 +0000  Processing symbols for A
+2019-07-19 03:47:35 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Uploadcare.framework/Versions/A' '--link-dest' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Uploadcare.framework/Versions' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:35 +0000  building file list ... 
+2019-07-19 03:47:35 +0000   0 files...2019-07-19 03:47:35 +0000  6 files to consider
+2019-07-19 03:47:35 +0000  A/
+2019-07-19 03:47:35 +0000  A/Resources/
+2019-07-19 03:47:35 +0000  A/Resources/Info.plist
+       1.20K 100%    0.00kB/s    0:00:00       1.20K 100%    0.00kB/s    0:00:00 (xfer#1, to-check=2/6)
+A/_CodeSignature/
+A/_CodeSignature/CodeResources
+2019-07-19 03:47:35 +0000         2.38K 100%    2.33MB/s    0:00:00       2.38K 100%    2.33MB/s    0:00:00 (xfer#2, to-check=0/6)
+2019-07-19 03:47:35 +0000  
+sent 3.91K bytes  received 82 bytes  7.97K bytes/sec
+total size is 113.26K  speedup is 28.41
+2019-07-19 03:47:35 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:35 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '--link-dest' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:35 +0000  building file list ... 
+2019-07-19 03:47:35 +0000   0 files...2019-07-19 03:47:35 +0000  67 files to consider
+2019-07-19 03:47:35 +0000  ./
+2019-07-19 03:47:35 +0000  Alamofire.framework.dSYM/
+Alamofire.framework.dSYM/Contents/
+2019-07-19 03:47:35 +0000  Alamofire.framework.dSYM/Contents/Resources/
+Alamofire.framework.dSYM/Contents/Resources/DWARF/
+GTMSessionFetcher.framework.dSYM/
+GTMSessionFetcher.framework.dSYM/Contents/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/DWARF/
+GoogleToolboxForMac.framework.dSYM/
+GoogleToolboxForMac.framework.dSYM/Contents/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/DWARF/
+Image Uploader.app.dSYM/
+Image Uploader.app.dSYM/Contents/
+Image Uploader.app.dSYM/Contents/Resources/
+Image Uploader.app.dSYM/Contents/Resources/DWARF/
+2019-07-19 03:47:35 +0000  Reachability.framework.dSYM/
+Reachability.framework.dSYM/Contents/
+Reachability.framework.dSYM/Contents/Resources/
+Reachability.framework.dSYM/Contents/Resources/DWARF/
+SocketIO.framework.dSYM/
+SocketIO.framework.dSYM/Contents/
+SocketIO.framework.dSYM/Contents/Resources/
+SocketIO.framework.dSYM/Contents/Resources/DWARF/
+Starscream.framework.dSYM/
+Starscream.framework.dSYM/Contents/
+Starscream.framework.dSYM/Contents/Resources/
+Starscream.framework.dSYM/Contents/Resources/DWARF/
+2019-07-19 03:47:35 +0000  SwiftyDropbox.framework.dSYM/
+SwiftyDropbox.framework.dSYM/Contents/
+SwiftyDropbox.framework.dSYM/Contents/Resources/
+SwiftyDropbox.framework.dSYM/Contents/Resources/DWARF/
+SwiftyJSON.framework.dSYM/
+SwiftyJSON.framework.dSYM/Contents/
+SwiftyJSON.framework.dSYM/Contents/Resources/
+SwiftyJSON.framework.dSYM/Contents/Resources/DWARF/
+Uploadcare.framework.dSYM/
+Uploadcare.framework.dSYM/Contents/
+Uploadcare.framework.dSYM/Contents/Resources/
+Uploadcare.framework.dSYM/Contents/Resources/DWARF/
+leveldb.framework.dSYM/
+2019-07-19 03:47:35 +0000  leveldb.framework.dSYM/Contents/
+leveldb.framework.dSYM/Contents/Resources/
+leveldb.framework.dSYM/Contents/Resources/DWARF/
+2019-07-19 03:47:35 +0000  
+sent 2.40K bytes  received 422 bytes  5.63K bytes/sec
+2019-07-19 03:47:35 +0000  total size is 64.07M  speedup is 23304.70
+2019-07-19 03:47:35 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:35 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/symbols '-noTextInSOD' '-noDaemon' '-arch' 'all' '-symbolsPackageDir' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Symbols' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire'
+2019-07-19 03:47:35 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire [x86_64, 0.033970 seconds]:
+2019-07-19 03:47:35 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with 0
+2019-07-19 03:47:35 +0000  Processing symbols for A
+2019-07-19 03:47:35 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/leveldb.framework/Versions/A' '--link-dest' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/leveldb.framework/Versions' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:35 +0000  building file list ... 
+2019-07-19 03:47:35 +0000   0 files...2019-07-19 03:47:35 +0000  6 files to consider
+2019-07-19 03:47:35 +0000  A/
+2019-07-19 03:47:35 +0000  A/Resources/
+2019-07-19 03:47:35 +0000  A/Resources/Info.plist
+       1.19K 100%    0.00kB/s    0:00:00       1.19K 100%    0.00kB/s    0:00:00 (xfer#1, to-check=2/6)
+A/_CodeSignature/
+A/_CodeSignature/CodeResources
+       2.46K 100%    2.40MB/s    0:00:00       2.46K 100%    2.40MB/s    0:00:00 (xfer#2, to-check=0/6)
+2019-07-19 03:47:35 +0000  
+sent 3.97K bytes  received 82 bytes  8.10K bytes/sec
+total size is 573.91K  speedup is 141.71
+2019-07-19 03:47:35 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:35 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '--link-dest' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:35 +0000  building file list ... 
+2019-07-19 03:47:35 +0000   0 files...2019-07-19 03:47:35 +0000  67 files to consider
+2019-07-19 03:47:35 +0000  ./
+2019-07-19 03:47:35 +0000  Alamofire.framework.dSYM/
+Alamofire.framework.dSYM/Contents/
+2019-07-19 03:47:35 +0000  Alamofire.framework.dSYM/Contents/Resources/
+Alamofire.framework.dSYM/Contents/Resources/DWARF/
+GTMSessionFetcher.framework.dSYM/
+GTMSessionFetcher.framework.dSYM/Contents/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/DWARF/
+GoogleToolboxForMac.framework.dSYM/
+GoogleToolboxForMac.framework.dSYM/Contents/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/DWARF/
+Image Uploader.app.dSYM/
+Image Uploader.app.dSYM/Contents/
+Image Uploader.app.dSYM/Contents/Resources/
+Image Uploader.app.dSYM/Contents/Resources/DWARF/
+Reachability.framework.dSYM/
+Reachability.framework.dSYM/Contents/
+Reachability.framework.dSYM/Contents/Resources/
+2019-07-19 03:47:35 +0000  Reachability.framework.dSYM/Contents/Resources/DWARF/
+SocketIO.framework.dSYM/
+SocketIO.framework.dSYM/Contents/
+SocketIO.framework.dSYM/Contents/Resources/
+SocketIO.framework.dSYM/Contents/Resources/DWARF/
+Starscream.framework.dSYM/
+Starscream.framework.dSYM/Contents/
+Starscream.framework.dSYM/Contents/Resources/
+Starscream.framework.dSYM/Contents/Resources/DWARF/
+SwiftyDropbox.framework.dSYM/
+SwiftyDropbox.framework.dSYM/Contents/
+SwiftyDropbox.framework.dSYM/Contents/Resources/
+SwiftyDropbox.framework.dSYM/Contents/Resources/DWARF/
+SwiftyJSON.framework.dSYM/
+SwiftyJSON.framework.dSYM/Contents/
+2019-07-19 03:47:35 +0000  SwiftyJSON.framework.dSYM/Contents/Resources/
+SwiftyJSON.framework.dSYM/Contents/Resources/DWARF/
+Uploadcare.framework.dSYM/
+Uploadcare.framework.dSYM/Contents/
+Uploadcare.framework.dSYM/Contents/Resources/
+Uploadcare.framework.dSYM/Contents/Resources/DWARF/
+leveldb.framework.dSYM/
+leveldb.framework.dSYM/Contents/
+leveldb.framework.dSYM/Contents/Resources/
+leveldb.framework.dSYM/Contents/Resources/DWARF/
+2019-07-19 03:47:35 +0000  
+sent 2.40K bytes  received 422 bytes  5.63K bytes/sec
+total size is 64.07M  speedup is 23304.70
+2019-07-19 03:47:35 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:35 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/symbols '-noTextInSOD' '-noDaemon' '-arch' 'all' '-symbolsPackageDir' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Symbols' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire'
+2019-07-19 03:47:35 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Alamofire.framework.dSYM/Contents/Resources/Dwarf/Alamofire [x86_64, 0.033298 seconds]:
+2019-07-19 03:47:35 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with 0
+2019-07-19 03:47:35 +0000  Excluding symbols for libswiftAVFoundation.dylib
+2019-07-19 03:47:35 +0000  Excluding symbols for libswiftAppKit.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftCore.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftCoreAudio.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftCoreData.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftCoreFoundation.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftCoreGraphics.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftCoreImage.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftCoreLocation.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftCoreMedia.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftDarwin.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftDispatch.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftFoundation.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftIOKit.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftMetal.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftObjectiveC.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftQuartzCore.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftXPC.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftos.dylib
+2019-07-19 03:47:36 +0000  Excluding symbols for libswiftsimd.dylib
+2019-07-19 03:47:36 +0000  Processing symbols for Image Uploader.app
+2019-07-19 03:47:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app' '--link-dest' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:36 +0000  building file list ... 
+2019-07-19 03:47:36 +0000   0 files...2019-07-19 03:47:36 +0000   100 files...2019-07-19 03:47:36 +0000  162 files to consider
+2019-07-19 03:47:36 +0000  Image Uploader.app/
+2019-07-19 03:47:36 +0000  Image Uploader.app/Contents/
+Image Uploader.app/Contents/Frameworks/
+2019-07-19 03:47:36 +0000  Image Uploader.app/Contents/Frameworks/Alamofire.framework/
+Image Uploader.app/Contents/Frameworks/Alamofire.framework/Versions/
+Image Uploader.app/Contents/Frameworks/Alamofire.framework/Versions/A/
+Image Uploader.app/Contents/Frameworks/Alamofire.framework/Versions/A/Resources/
+Image Uploader.app/Contents/Frameworks/Alamofire.framework/Versions/A/_CodeSignature/
+Image Uploader.app/Contents/Frameworks/GTMSessionFetcher.framework/
+Image Uploader.app/Contents/Frameworks/GTMSessionFetcher.framework/Versions/
+Image Uploader.app/Contents/Frameworks/GTMSessionFetcher.framework/Versions/A/
+Image Uploader.app/Contents/Frameworks/GTMSessionFetcher.framework/Versions/A/Resources/
+Image Uploader.app/Contents/Frameworks/GTMSessionFetcher.framework/Versions/A/_CodeSignature/
+Image Uploader.app/Contents/Frameworks/GoogleToolboxForMac.framework/
+Image Uploader.app/Contents/Frameworks/GoogleToolboxForMac.framework/Versions/
+Image Uploader.app/Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A/
+Image Uploader.app/Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A/Resources/
+Image Uploader.app/Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A/_CodeSignature/
+Image Uploader.app/Contents/Frameworks/Reachability.framework/
+Image Uploader.app/Contents/Frameworks/Reachability.framework/Versions/
+Image Uploader.app/Contents/Frameworks/Reachability.framework/Versions/A/
+Image Uploader.app/Contents/Frameworks/Reachability.framework/Versions/A/Resources/
+Image Uploader.app/Contents/Frameworks/Reachability.framework/Versions/A/_CodeSignature/
+Image Uploader.app/Contents/Frameworks/SocketIO.framework/
+Image Uploader.app/Contents/Frameworks/SocketIO.framework/Versions/
+Image Uploader.app/Contents/Frameworks/SocketIO.framework/Versions/A/
+Image Uploader.app/Contents/Frameworks/SocketIO.framework/Versions/A/Resources/
+2019-07-19 03:47:36 +0000  Image Uploader.app/Contents/Frameworks/SocketIO.framework/Versions/A/_CodeSignature/
+Image Uploader.app/Contents/Frameworks/Starscream.framework/
+Image Uploader.app/Contents/Frameworks/Starscream.framework/Versions/
+Image Uploader.app/Contents/Frameworks/Starscream.framework/Versions/A/
+Image Uploader.app/Contents/Frameworks/Starscream.framework/Versions/A/Resources/
+Image Uploader.app/Contents/Frameworks/Starscream.framework/Versions/A/_CodeSignature/
+Image Uploader.app/Contents/Frameworks/SwiftyDropbox.framework/
+Image Uploader.app/Contents/Frameworks/SwiftyDropbox.framework/Versions/
+Image Uploader.app/Contents/Frameworks/SwiftyDropbox.framework/Versions/A/
+Image Uploader.app/Contents/Frameworks/SwiftyDropbox.framework/Versions/A/Resources/
+Image Uploader.app/Contents/Frameworks/SwiftyDropbox.framework/Versions/A/_CodeSignature/
+Image Uploader.app/Contents/Frameworks/SwiftyJSON.framework/
+Image Uploader.app/Contents/Frameworks/SwiftyJSON.framework/Versions/
+Image Uploader.app/Contents/Frameworks/SwiftyJSON.framework/Versions/A/
+Image Uploader.app/Contents/Frameworks/SwiftyJSON.framework/Versions/A/Resources/
+Image Uploader.app/Contents/Frameworks/SwiftyJSON.framework/Versions/A/_CodeSignature/
+Image Uploader.app/Contents/Frameworks/Uploadcare.framework/
+Image Uploader.app/Contents/Frameworks/Uploadcare.framework/Versions/
+Image Uploader.app/Contents/Frameworks/Uploadcare.framework/Versions/A/
+Image Uploader.app/Contents/Frameworks/Uploadcare.framework/Versions/A/Resources/
+Image Uploader.app/Contents/Frameworks/Uploadcare.framework/Versions/A/_CodeSignature/
+2019-07-19 03:47:36 +0000  Image Uploader.app/Contents/Frameworks/leveldb.framework/
+Image Uploader.app/Contents/Frameworks/leveldb.framework/Versions/
+Image Uploader.app/Contents/Frameworks/leveldb.framework/Versions/A/
+Image Uploader.app/Contents/Frameworks/leveldb.framework/Versions/A/Resources/
+Image Uploader.app/Contents/Frameworks/leveldb.framework/Versions/A/_CodeSignature/
+Image Uploader.app/Contents/MacOS/
+Image Uploader.app/Contents/Resources/
+Image Uploader.app/Contents/Resources/Base.lproj/
+Image Uploader.app/Contents/Resources/Base.lproj/Main.storyboardc/
+Image Uploader.app/Contents/_CodeSignature/
+2019-07-19 03:47:36 +0000  
+sent 5.79K bytes  received 368 bytes  12.29K bytes/sec
+total size is 46.00M  speedup is 7663.39
+2019-07-19 03:47:36 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '--link-dest' '/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/dSYMs/' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX'
+2019-07-19 03:47:36 +0000  building file list ... 
+2019-07-19 03:47:36 +0000   0 files...2019-07-19 03:47:36 +0000  67 files to consider
+2019-07-19 03:47:36 +0000  ./
+2019-07-19 03:47:36 +0000  Alamofire.framework.dSYM/
+Alamofire.framework.dSYM/Contents/
+2019-07-19 03:47:36 +0000  Alamofire.framework.dSYM/Contents/Resources/
+Alamofire.framework.dSYM/Contents/Resources/DWARF/
+GTMSessionFetcher.framework.dSYM/
+GTMSessionFetcher.framework.dSYM/Contents/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/
+GTMSessionFetcher.framework.dSYM/Contents/Resources/DWARF/
+GoogleToolboxForMac.framework.dSYM/
+2019-07-19 03:47:36 +0000  GoogleToolboxForMac.framework.dSYM/Contents/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/
+GoogleToolboxForMac.framework.dSYM/Contents/Resources/DWARF/
+Image Uploader.app.dSYM/
+Image Uploader.app.dSYM/Contents/
+Image Uploader.app.dSYM/Contents/Resources/
+Image Uploader.app.dSYM/Contents/Resources/DWARF/
+Reachability.framework.dSYM/
+Reachability.framework.dSYM/Contents/
+Reachability.framework.dSYM/Contents/Resources/
+Reachability.framework.dSYM/Contents/Resources/DWARF/
+SocketIO.framework.dSYM/
+SocketIO.framework.dSYM/Contents/
+SocketIO.framework.dSYM/Contents/Resources/
+SocketIO.framework.dSYM/Contents/Resources/DWARF/
+2019-07-19 03:47:36 +0000  Starscream.framework.dSYM/
+Starscream.framework.dSYM/Contents/
+Starscream.framework.dSYM/Contents/Resources/
+Starscream.framework.dSYM/Contents/Resources/DWARF/
+SwiftyDropbox.framework.dSYM/
+SwiftyDropbox.framework.dSYM/Contents/
+SwiftyDropbox.framework.dSYM/Contents/Resources/
+SwiftyDropbox.framework.dSYM/Contents/Resources/DWARF/
+SwiftyJSON.framework.dSYM/
+SwiftyJSON.framework.dSYM/Contents/
+SwiftyJSON.framework.dSYM/Contents/Resources/
+SwiftyJSON.framework.dSYM/Contents/Resources/DWARF/
+Uploadcare.framework.dSYM/
+2019-07-19 03:47:36 +0000  Uploadcare.framework.dSYM/Contents/
+Uploadcare.framework.dSYM/Contents/Resources/
+Uploadcare.framework.dSYM/Contents/Resources/DWARF/
+leveldb.framework.dSYM/
+leveldb.framework.dSYM/Contents/
+leveldb.framework.dSYM/Contents/Resources/
+leveldb.framework.dSYM/Contents/Resources/DWARF/
+2019-07-19 03:47:36 +0000  
+sent 2.40K bytes  received 422 bytes  5.63K bytes/sec
+total size is 64.07M  speedup is 23304.70
+2019-07-19 03:47:36 +0000  /usr/bin/rsync exited with 0
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/symbols '-noTextInSOD' '-noDaemon' '-arch' 'all' '-symbolsPackageDir' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Symbols' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Image Uploader.app.dSYM/Contents/Resources/Dwarf/Image Uploader'
+2019-07-19 03:47:36 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Image Uploader.app.dSYM/Contents/Resources/Dwarf/Image Uploader [x86_64, 0.187836 seconds]:
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with 0
+2019-07-19 03:47:36 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2019-07-19 03:47:36 +0000  Processing step: IDEDistributionAppThinningStep
+2019-07-19 03:47:36 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2019-07-19 03:47:36 +0000  Processing step: IDEDistributionArchThinningStep
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Alamofire.framework/Versions/A/Alamofire' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "Alamofire" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/GTMSessionFetcher.framework/Versions/A/GTMSessionFetcher' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "GTMSessionFetcher" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A/GoogleToolboxForMac' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "GoogleToolboxForMac" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Reachability.framework/Versions/A/Reachability' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "Reachability" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SocketIO.framework/Versions/A/SocketIO' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "SocketIO" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Starscream.framework/Versions/A/Starscream' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "Starscream" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SwiftyDropbox.framework/Versions/A/SwiftyDropbox' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "SwiftyDropbox" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SwiftyJSON.framework/Versions/A/SwiftyJSON' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "SwiftyJSON" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Uploadcare.framework/Versions/A/Uploadcare' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "Uploadcare" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/leveldb.framework/Versions/A/leveldb' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "leveldb" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftAVFoundation.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftAVFoundation.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftAppKit.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftAppKit.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCore.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftCore.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreAudio.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftCoreAudio.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreData.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftCoreData.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreFoundation.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftCoreFoundation.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreGraphics.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftCoreGraphics.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreImage.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftCoreImage.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreLocation.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftCoreLocation.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreMedia.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftCoreMedia.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftDarwin.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftDarwin.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftDispatch.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftDispatch.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftFoundation.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftFoundation.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftIOKit.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftIOKit.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftMetal.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftMetal.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftObjectiveC.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftObjectiveC.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftQuartzCore.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftQuartzCore.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftXPC.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftXPC.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftos.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftos.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftsimd.dylib' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "libswiftsimd.dylib" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/MacOS/Image Uploader' '-verify_arch' 'arm64e'
+2019-07-19 03:47:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-19 03:47:36 +0000  Skipping architecture thinning for item "Image Uploader" because arch "arm64e" wasn't found
+2019-07-19 03:47:36 +0000  Processing step: IDEDistributionODRStep
+2019-07-19 03:47:36 +0000  Processing step: IDEDistributionStripXattrsStep
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410bf9e0 'org.cocoapods.Alamofire' '<DVTFilePath:0x7fc43f9e91f0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/Alamofire.framework/Versions/A'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4411244a0 'org.cocoapods.GTMSessionFetcher' '<DVTFilePath:0x7fc439fe9520:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/GTMSessionFetcher.framework/Versions/A'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410f6520 'org.cocoapods.GoogleToolboxForMac' '<DVTFilePath:0x7fc43fbd1be0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc441137f00 'org.cocoapods.Reachability' '<DVTFilePath:0x7fc43c685810:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/Reachability.framework/Versions/A'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc44110b140 'org.cocoapods.SocketIO' '<DVTFilePath:0x7fc43b4be950:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/SocketIO.framework/Versions/A'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc438031cf0 'org.cocoapods.Starscream' '<DVTFilePath:0x7fc43c71ae40:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/Starscream.framework/Versions/A'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410af8b0 'org.cocoapods.SwiftyDropbox' '<DVTFilePath:0x7fc43c7ea4b0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/SwiftyDropbox.framework/Versions/A'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc44111e510 'org.cocoapods.SwiftyJSON' '<DVTFilePath:0x7fc439bafb70:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/SwiftyJSON.framework/Versions/A'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410c67c0 'org.cocoapods.Uploadcare' '<DVTFilePath:0x7fc43bf8f660:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/Uploadcare.framework/Versions/A'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc441100870 'org.cocoapods.leveldb' '<DVTFilePath:0x7fc43d17c1c0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/leveldb.framework/Versions/A'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410c36c0 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fc43eecf660:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftAVFoundation.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc44113d5c0 'com.apple.dt.runtime.swiftAppKit' '<DVTFilePath:0x7fc43ffe14a0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftAppKit.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410de430 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc43e6c8230:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCore.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410af7e0 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fc43fbc71e0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreAudio.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410dd700 'com.apple.dt.runtime.swiftCoreData' '<DVTFilePath:0x7fc43eacbca0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreData.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410cac40 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc43bfbbfe0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreFoundation.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc441123bd0 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc439b63c80:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreGraphics.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410bbcd0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fc441069f10:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreImage.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410f25c0 'com.apple.dt.runtime.swiftCoreLocation' '<DVTFilePath:0x7fc43ff7a6d0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreLocation.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc43fba4d20 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fc43c6db1b0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreMedia.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410dc9a0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc43e6b84d0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftDarwin.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc441138d10 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc439f5bb90:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftDispatch.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410c83c0 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc43c6dd860:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftFoundation.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410e9e20 'com.apple.dt.runtime.swiftIOKit' '<DVTFilePath:0x7fc43bf8ecd0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftIOKit.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410e5ba0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fc439ca7dd0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftMetal.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc43e0c8780 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc441067bd0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftObjectiveC.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc43b976160 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fc43ba5ff80:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftQuartzCore.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410a3730 'com.apple.dt.runtime.swiftXPC' '<DVTFilePath:0x7fc43ba86c50:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftXPC.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc43d08f7a0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fc43ef307e0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftos.dylib'>'>
+2019-07-19 03:47:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4410ee9b0 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fc43fb4f180:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftsimd.dylib'>'>
+2019-07-19 03:47:36 +0000  Running /usr/bin/xattr '-crs' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app'
+2019-07-19 03:47:37 +0000  /usr/bin/xattr exited with 0
+2019-07-19 03:47:37 +0000  Processing step: IDEDistributionCodesignStep
+2019-07-19 03:47:37 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410bf9e0 'org.cocoapods.Alamofire' '<DVTFilePath:0x7fc43f9e91f0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/Alamofire.framework/Versions/A'>'>: {
+}
+2019-07-19 03:47:37 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410bf9e0 'org.cocoapods.Alamofire' '<DVTFilePath:0x7fc43f9e91f0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/Alamofire.framework/Versions/A'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlements2ZUxpI
+2019-07-19 03:47:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlements2ZUxpI' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Alamofire.framework/Versions/A'
+2019-07-19 03:47:37 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Alamofire.framework/Versions/A: replacing existing signature
+2019-07-19 03:47:37 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Alamofire.framework/Versions/A: signed bundle with Mach-O thin (x86_64) [org.cocoapods.Alamofire]
+2019-07-19 03:47:37 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:37 +0000  Entitlements for <IDEDistributionItem: 0x7fc4411244a0 'org.cocoapods.GTMSessionFetcher' '<DVTFilePath:0x7fc439fe9520:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/GTMSessionFetcher.framework/Versions/A'>'>: {
+}
+2019-07-19 03:47:37 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4411244a0 'org.cocoapods.GTMSessionFetcher' '<DVTFilePath:0x7fc439fe9520:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/GTMSessionFetcher.framework/Versions/A'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsvFksGS
+2019-07-19 03:47:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsvFksGS' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/GTMSessionFetcher.framework/Versions/A'
+2019-07-19 03:47:37 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/GTMSessionFetcher.framework/Versions/A: replacing existing signature
+2019-07-19 03:47:37 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/GTMSessionFetcher.framework/Versions/A: signed bundle with Mach-O thin (x86_64) [org.cocoapods.GTMSessionFetcher]
+2019-07-19 03:47:37 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:37 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410f6520 'org.cocoapods.GoogleToolboxForMac' '<DVTFilePath:0x7fc43fbd1be0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A'>'>: {
+}
+2019-07-19 03:47:37 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410f6520 'org.cocoapods.GoogleToolboxForMac' '<DVTFilePath:0x7fc43fbd1be0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlements7rxrT0
+2019-07-19 03:47:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlements7rxrT0' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A'
+2019-07-19 03:47:37 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A: replacing existing signature
+2019-07-19 03:47:37 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/GoogleToolboxForMac.framework/Versions/A: signed bundle with Mach-O thin (x86_64) [org.cocoapods.GoogleToolboxForMac]
+2019-07-19 03:47:37 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:37 +0000  Entitlements for <IDEDistributionItem: 0x7fc441137f00 'org.cocoapods.Reachability' '<DVTFilePath:0x7fc43c685810:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/Reachability.framework/Versions/A'>'>: {
+}
+2019-07-19 03:47:37 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc441137f00 'org.cocoapods.Reachability' '<DVTFilePath:0x7fc43c685810:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/Reachability.framework/Versions/A'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsT0S7Ug
+2019-07-19 03:47:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsT0S7Ug' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Reachability.framework/Versions/A'
+2019-07-19 03:47:38 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Reachability.framework/Versions/A: replacing existing signature
+2019-07-19 03:47:38 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Reachability.framework/Versions/A: signed bundle with Mach-O thin (x86_64) [org.cocoapods.Reachability]
+2019-07-19 03:47:38 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:38 +0000  Entitlements for <IDEDistributionItem: 0x7fc44110b140 'org.cocoapods.SocketIO' '<DVTFilePath:0x7fc43b4be950:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/SocketIO.framework/Versions/A'>'>: {
+}
+2019-07-19 03:47:38 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc44110b140 'org.cocoapods.SocketIO' '<DVTFilePath:0x7fc43b4be950:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/SocketIO.framework/Versions/A'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsDnruIY
+2019-07-19 03:47:38 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsDnruIY' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SocketIO.framework/Versions/A'
+2019-07-19 03:47:38 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SocketIO.framework/Versions/A: replacing existing signature
+2019-07-19 03:47:38 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SocketIO.framework/Versions/A: signed bundle with Mach-O thin (x86_64) [org.cocoapods.SocketIO]
+2019-07-19 03:47:38 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:38 +0000  Entitlements for <IDEDistributionItem: 0x7fc438031cf0 'org.cocoapods.Starscream' '<DVTFilePath:0x7fc43c71ae40:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/Starscream.framework/Versions/A'>'>: {
+}
+2019-07-19 03:47:38 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc438031cf0 'org.cocoapods.Starscream' '<DVTFilePath:0x7fc43c71ae40:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/Starscream.framework/Versions/A'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlements8kuF4F
+2019-07-19 03:47:38 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlements8kuF4F' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Starscream.framework/Versions/A'
+2019-07-19 03:47:38 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Starscream.framework/Versions/A: replacing existing signature
+2019-07-19 03:47:38 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Starscream.framework/Versions/A: signed bundle with Mach-O thin (x86_64) [org.cocoapods.Starscream]
+2019-07-19 03:47:38 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:38 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410af8b0 'org.cocoapods.SwiftyDropbox' '<DVTFilePath:0x7fc43c7ea4b0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/SwiftyDropbox.framework/Versions/A'>'>: {
+}
+2019-07-19 03:47:38 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410af8b0 'org.cocoapods.SwiftyDropbox' '<DVTFilePath:0x7fc43c7ea4b0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/SwiftyDropbox.framework/Versions/A'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsNYWJgA
+2019-07-19 03:47:38 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsNYWJgA' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SwiftyDropbox.framework/Versions/A'
+2019-07-19 03:47:38 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SwiftyDropbox.framework/Versions/A: replacing existing signature
+2019-07-19 03:47:38 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SwiftyDropbox.framework/Versions/A: signed bundle with Mach-O thin (x86_64) [org.cocoapods.SwiftyDropbox]
+2019-07-19 03:47:38 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:38 +0000  Entitlements for <IDEDistributionItem: 0x7fc44111e510 'org.cocoapods.SwiftyJSON' '<DVTFilePath:0x7fc439bafb70:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/SwiftyJSON.framework/Versions/A'>'>: {
+}
+2019-07-19 03:47:38 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc44111e510 'org.cocoapods.SwiftyJSON' '<DVTFilePath:0x7fc439bafb70:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/SwiftyJSON.framework/Versions/A'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlements8NgAXR
+2019-07-19 03:47:38 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlements8NgAXR' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SwiftyJSON.framework/Versions/A'
+2019-07-19 03:47:38 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SwiftyJSON.framework/Versions/A: replacing existing signature
+2019-07-19 03:47:38 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/SwiftyJSON.framework/Versions/A: signed bundle with Mach-O thin (x86_64) [org.cocoapods.SwiftyJSON]
+2019-07-19 03:47:38 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:38 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410c67c0 'org.cocoapods.Uploadcare' '<DVTFilePath:0x7fc43bf8f660:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/Uploadcare.framework/Versions/A'>'>: {
+}
+2019-07-19 03:47:38 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410c67c0 'org.cocoapods.Uploadcare' '<DVTFilePath:0x7fc43bf8f660:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/Uploadcare.framework/Versions/A'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlements0FLdXC
+2019-07-19 03:47:38 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlements0FLdXC' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Uploadcare.framework/Versions/A'
+2019-07-19 03:47:38 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Uploadcare.framework/Versions/A: replacing existing signature
+2019-07-19 03:47:39 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/Uploadcare.framework/Versions/A: signed bundle with Mach-O thin (x86_64) [org.cocoapods.Uploadcare]
+2019-07-19 03:47:39 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:39 +0000  Entitlements for <IDEDistributionItem: 0x7fc441100870 'org.cocoapods.leveldb' '<DVTFilePath:0x7fc43d17c1c0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/leveldb.framework/Versions/A'>'>: {
+}
+2019-07-19 03:47:39 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc441100870 'org.cocoapods.leveldb' '<DVTFilePath:0x7fc43d17c1c0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/leveldb.framework/Versions/A'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsCdPPri
+2019-07-19 03:47:39 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsCdPPri' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/leveldb.framework/Versions/A'
+2019-07-19 03:47:39 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/leveldb.framework/Versions/A: replacing existing signature
+2019-07-19 03:47:39 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/leveldb.framework/Versions/A: signed bundle with Mach-O thin (x86_64) [org.cocoapods.leveldb]
+2019-07-19 03:47:39 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:39 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410c36c0 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fc43eecf660:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftAVFoundation.dylib'>'>: {
+}
+2019-07-19 03:47:39 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410c36c0 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fc43eecf660:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftAVFoundation.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsu8Ppp3
+2019-07-19 03:47:39 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsu8Ppp3' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftAVFoundation.dylib'
+2019-07-19 03:47:39 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftAVFoundation.dylib: replacing existing signature
+2019-07-19 03:47:39 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftAVFoundation.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftAVFoundation]
+2019-07-19 03:47:39 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:39 +0000  Entitlements for <IDEDistributionItem: 0x7fc44113d5c0 'com.apple.dt.runtime.swiftAppKit' '<DVTFilePath:0x7fc43ffe14a0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftAppKit.dylib'>'>: {
+}
+2019-07-19 03:47:39 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc44113d5c0 'com.apple.dt.runtime.swiftAppKit' '<DVTFilePath:0x7fc43ffe14a0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftAppKit.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsfIZmrd
+2019-07-19 03:47:39 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsfIZmrd' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftAppKit.dylib'
+2019-07-19 03:47:39 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftAppKit.dylib: replacing existing signature
+2019-07-19 03:47:39 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftAppKit.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftAppKit]
+2019-07-19 03:47:39 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:39 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410de430 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc43e6c8230:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCore.dylib'>'>: {
+}
+2019-07-19 03:47:39 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410de430 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc43e6c8230:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCore.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsZdAedR
+2019-07-19 03:47:39 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsZdAedR' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCore.dylib'
+2019-07-19 03:47:39 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCore.dylib: replacing existing signature
+2019-07-19 03:47:39 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCore.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftCore]
+2019-07-19 03:47:39 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:39 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410af7e0 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fc43fbc71e0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreAudio.dylib'>'>: {
+}
+2019-07-19 03:47:39 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410af7e0 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fc43fbc71e0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreAudio.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementso1c0FX
+2019-07-19 03:47:39 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementso1c0FX' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreAudio.dylib'
+2019-07-19 03:47:39 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreAudio.dylib: replacing existing signature
+2019-07-19 03:47:39 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreAudio.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftCoreAudio]
+2019-07-19 03:47:39 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:39 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410dd700 'com.apple.dt.runtime.swiftCoreData' '<DVTFilePath:0x7fc43eacbca0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreData.dylib'>'>: {
+}
+2019-07-19 03:47:39 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410dd700 'com.apple.dt.runtime.swiftCoreData' '<DVTFilePath:0x7fc43eacbca0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreData.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementseRzIH5
+2019-07-19 03:47:39 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementseRzIH5' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreData.dylib'
+2019-07-19 03:47:39 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreData.dylib: replacing existing signature
+2019-07-19 03:47:39 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreData.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftCoreData]
+2019-07-19 03:47:39 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:39 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410cac40 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc43bfbbfe0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreFoundation.dylib'>'>: {
+}
+2019-07-19 03:47:39 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410cac40 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc43bfbbfe0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreFoundation.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementspzP6ra
+2019-07-19 03:47:39 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementspzP6ra' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreFoundation.dylib'
+2019-07-19 03:47:39 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreFoundation.dylib: replacing existing signature
+2019-07-19 03:47:39 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftCoreFoundation]
+2019-07-19 03:47:39 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:39 +0000  Entitlements for <IDEDistributionItem: 0x7fc441123bd0 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc439b63c80:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreGraphics.dylib'>'>: {
+}
+2019-07-19 03:47:39 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc441123bd0 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc439b63c80:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreGraphics.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsf7U7XX
+2019-07-19 03:47:39 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsf7U7XX' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreGraphics.dylib'
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreGraphics.dylib: replacing existing signature
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftCoreGraphics]
+2019-07-19 03:47:40 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:40 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410bbcd0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fc441069f10:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreImage.dylib'>'>: {
+}
+2019-07-19 03:47:40 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410bbcd0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fc441069f10:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreImage.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsldyETT
+2019-07-19 03:47:40 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsldyETT' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreImage.dylib'
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreImage.dylib: replacing existing signature
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreImage.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftCoreImage]
+2019-07-19 03:47:40 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:40 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410f25c0 'com.apple.dt.runtime.swiftCoreLocation' '<DVTFilePath:0x7fc43ff7a6d0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreLocation.dylib'>'>: {
+}
+2019-07-19 03:47:40 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410f25c0 'com.apple.dt.runtime.swiftCoreLocation' '<DVTFilePath:0x7fc43ff7a6d0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreLocation.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsDRZZs0
+2019-07-19 03:47:40 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsDRZZs0' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreLocation.dylib'
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreLocation.dylib: replacing existing signature
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreLocation.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftCoreLocation]
+2019-07-19 03:47:40 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:40 +0000  Entitlements for <IDEDistributionItem: 0x7fc43fba4d20 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fc43c6db1b0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreMedia.dylib'>'>: {
+}
+2019-07-19 03:47:40 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc43fba4d20 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fc43c6db1b0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreMedia.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsfaPll4
+2019-07-19 03:47:40 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsfaPll4' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreMedia.dylib'
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreMedia.dylib: replacing existing signature
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftCoreMedia.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftCoreMedia]
+2019-07-19 03:47:40 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:40 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410dc9a0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc43e6b84d0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftDarwin.dylib'>'>: {
+}
+2019-07-19 03:47:40 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410dc9a0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc43e6b84d0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftDarwin.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsUcX6vG
+2019-07-19 03:47:40 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsUcX6vG' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftDarwin.dylib'
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftDarwin.dylib: replacing existing signature
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftDarwin.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftDarwin]
+2019-07-19 03:47:40 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:40 +0000  Entitlements for <IDEDistributionItem: 0x7fc441138d10 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc439f5bb90:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftDispatch.dylib'>'>: {
+}
+2019-07-19 03:47:40 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc441138d10 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc439f5bb90:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftDispatch.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsirWIBs
+2019-07-19 03:47:40 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsirWIBs' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftDispatch.dylib'
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftDispatch.dylib: replacing existing signature
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftDispatch.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftDispatch]
+2019-07-19 03:47:40 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:40 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410c83c0 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc43c6dd860:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftFoundation.dylib'>'>: {
+}
+2019-07-19 03:47:40 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410c83c0 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc43c6dd860:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftFoundation.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsDAinqG
+2019-07-19 03:47:40 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsDAinqG' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftFoundation.dylib'
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftFoundation.dylib: replacing existing signature
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftFoundation.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftFoundation]
+2019-07-19 03:47:40 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:40 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410e9e20 'com.apple.dt.runtime.swiftIOKit' '<DVTFilePath:0x7fc43bf8ecd0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftIOKit.dylib'>'>: {
+}
+2019-07-19 03:47:40 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410e9e20 'com.apple.dt.runtime.swiftIOKit' '<DVTFilePath:0x7fc43bf8ecd0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftIOKit.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlements5ZWOvD
+2019-07-19 03:47:40 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlements5ZWOvD' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftIOKit.dylib'
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftIOKit.dylib: replacing existing signature
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftIOKit.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftIOKit]
+2019-07-19 03:47:40 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:40 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410e5ba0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fc439ca7dd0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftMetal.dylib'>'>: {
+}
+2019-07-19 03:47:40 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410e5ba0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fc439ca7dd0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftMetal.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsmCIuKv
+2019-07-19 03:47:40 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsmCIuKv' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftMetal.dylib'
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftMetal.dylib: replacing existing signature
+2019-07-19 03:47:40 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftMetal.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftMetal]
+2019-07-19 03:47:40 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:40 +0000  Entitlements for <IDEDistributionItem: 0x7fc43e0c8780 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc441067bd0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftObjectiveC.dylib'>'>: {
+}
+2019-07-19 03:47:40 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc43e0c8780 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc441067bd0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftObjectiveC.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsl4Jpfe
+2019-07-19 03:47:40 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsl4Jpfe' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftObjectiveC.dylib'
+2019-07-19 03:47:41 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftObjectiveC.dylib: replacing existing signature
+2019-07-19 03:47:41 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftObjectiveC.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftObjectiveC]
+2019-07-19 03:47:41 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:41 +0000  Entitlements for <IDEDistributionItem: 0x7fc43b976160 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fc43ba5ff80:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftQuartzCore.dylib'>'>: {
+}
+2019-07-19 03:47:41 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc43b976160 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fc43ba5ff80:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftQuartzCore.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementspcGff4
+2019-07-19 03:47:41 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementspcGff4' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftQuartzCore.dylib'
+2019-07-19 03:47:41 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftQuartzCore.dylib: replacing existing signature
+2019-07-19 03:47:41 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftQuartzCore.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftQuartzCore]
+2019-07-19 03:47:41 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:41 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410a3730 'com.apple.dt.runtime.swiftXPC' '<DVTFilePath:0x7fc43ba86c50:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftXPC.dylib'>'>: {
+}
+2019-07-19 03:47:41 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410a3730 'com.apple.dt.runtime.swiftXPC' '<DVTFilePath:0x7fc43ba86c50:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftXPC.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlements37mkro
+2019-07-19 03:47:41 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlements37mkro' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftXPC.dylib'
+2019-07-19 03:47:41 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftXPC.dylib: replacing existing signature
+2019-07-19 03:47:41 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftXPC.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftXPC]
+2019-07-19 03:47:41 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:41 +0000  Entitlements for <IDEDistributionItem: 0x7fc43d08f7a0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fc43ef307e0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftos.dylib'>'>: {
+}
+2019-07-19 03:47:41 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc43d08f7a0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fc43ef307e0:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftos.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsgPi5vs
+2019-07-19 03:47:41 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsgPi5vs' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftos.dylib'
+2019-07-19 03:47:41 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftos.dylib: replacing existing signature
+2019-07-19 03:47:41 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftos.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftos]
+2019-07-19 03:47:41 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:41 +0000  Entitlements for <IDEDistributionItem: 0x7fc4410ee9b0 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fc43fb4f180:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftsimd.dylib'>'>: {
+}
+2019-07-19 03:47:41 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4410ee9b0 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fc43fb4f180:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app/Contents/Frameworks/libswiftsimd.dylib'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsP2hMSj
+2019-07-19 03:47:41 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementsP2hMSj' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftsimd.dylib'
+2019-07-19 03:47:41 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftsimd.dylib: replacing existing signature
+2019-07-19 03:47:41 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app/Contents/Frameworks/libswiftsimd.dylib: signed Mach-O thin (x86_64) [com.apple.dt.runtime.swiftsimd]
+2019-07-19 03:47:41 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:41 +0000  Entitlements for <IDEDistributionItem: 0x7fc4411421f0 'com.burcumirza.Image-Uploader' '<DVTFilePath:0x7fc43f80dc30:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app'>'>: {
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.device.camera" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+    "com.apple.security.network.client" = 1;
+}
+2019-07-19 03:47:41 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4411421f0 'com.burcumirza.Image-Uploader' '<DVTFilePath:0x7fc43f80dc30:'/Users/ozanmirza/Library/Developer/Xcode/Archives/2019-07-18/Image Uploader 7-18-19, 11.44 PM.xcarchive/Products/Applications/Image Uploader.app'>'> to: /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementscnDH3t
+2019-07-19 03:47:41 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A1F90CA0EFF5CDAE484D939BFBB4038D478CA7E9' '--entitlements' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/entitlementscnDH3t' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app'
+2019-07-19 03:47:41 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app: replacing existing signature
+2019-07-19 03:47:41 +0000  /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app: signed app bundle with Mach-O thin (x86_64) [com.burcumirza.Image-Uploader]
+2019-07-19 03:47:41 +0000  /usr/bin/codesign exited with 0
+2019-07-19 03:47:41 +0000  Processing step: IDEDistributionZipODRItemStep
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-19 03:47:41 +0000  Processing step: IDEDistributionCreatePKGStep
+2019-07-19 03:47:41 +0000  Running /usr/bin/productbuild '--sign' '3rd Party Mac Developer Installer: Burcu Mirza (QXNMG5R4EQ)' '--symbolication' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Symbols' '--component' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app' '/Applications' '/var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Packages/Image Uploader.pkg'
+2019-07-19 03:47:46 +0000  productbuild: Adding component at /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Root/Applications/Image Uploader.app
+productbuild: Signing product with identity "3rd Party Mac Developer Installer: Burcu Mirza (QXNMG5R4EQ)" from keychain /Users/ozanmirza/Library/Keychains/login.keychain-db
+productbuild: Adding certificate "Apple Worldwide Developer Relations Certification Authority"
+productbuild: Adding certificate "Apple Root CA"
+productbuild: Wrote product to /var/folders/rh/520xs81j4xnb4j6wgfn12tf00000gn/T/XcodeDistPipeline.hlX/Packages/Image Uploader.pkg
+productbuild: Supported OS versions: [10.14, )
+2019-07-19 03:47:46 +0000  /usr/bin/productbuild exited with 0
+2019-07-19 03:47:46 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2019-07-19 03:47:46 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2019-07-19 03:47:46 +0000  Processing step: IDEDistributionCreateManifestStep
+2019-07-19 03:47:46 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so

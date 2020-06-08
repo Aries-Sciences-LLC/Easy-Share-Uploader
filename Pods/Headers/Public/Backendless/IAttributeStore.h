@@ -1,0 +1,1 @@
+../../../Backendless/SDK/osx/backendless/include/IAttributeStore.h

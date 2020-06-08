@@ -1,0 +1,6 @@
+framework module Uploadcare {
+  umbrella header "Uploadcare-umbrella.h"
+
+  export *
+  module * { export * }
+}

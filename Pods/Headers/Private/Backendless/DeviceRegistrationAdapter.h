@@ -1,0 +1,1 @@
+../../../Backendless/SDK/osx/backendless/include/DeviceRegistrationAdapter.h
