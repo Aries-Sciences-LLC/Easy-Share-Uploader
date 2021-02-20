@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0930"
+   LastUpgradeVersion = "1100"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "21CBFAAB5B08E7DF329FA8042D5CDB7E"
+               BlueprintIdentifier = "FF39B7A1D9F00620D9F56635ABBB2C03"
                BuildableName = "SwiftyDropbox.framework"
                BlueprintName = "SwiftyDropbox"
                ReferencedContainer = "container:Pods.xcodeproj">

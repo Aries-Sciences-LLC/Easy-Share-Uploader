@@ -1,0 +1,13 @@
+${PODS_ROOT}/Target Support Files/Pods-Easy Share Uploader/Pods-Easy Share Uploader-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/BackendlessSwift/Backendless.framework
+${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework
+${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework
+${BUILT_PRODUCTS_DIR}/Socket.IO-Client-Swift/SocketIO.framework
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework
+${BUILT_PRODUCTS_DIR}/SwiftyDropbox/SwiftyDropbox.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/Uploadcare/Uploadcare.framework
+${BUILT_PRODUCTS_DIR}/anim/anim.framework
+${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework

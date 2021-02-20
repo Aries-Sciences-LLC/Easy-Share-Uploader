@@ -9,7 +9,7 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Backendless.xcscheme</key>
+		<key>BackendlessSwift.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -44,17 +44,7 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-Image Uploader.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-Image UploaderTests.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-Image UploaderUITests.xcscheme</key>
+		<key>Pods-Easy Share Uploader.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -85,6 +75,11 @@
 			<false/>
 		</dict>
 		<key>Uploadcare.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>anim.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

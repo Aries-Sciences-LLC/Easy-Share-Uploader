@@ -52,14 +52,14 @@
 			<string></string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>db-cykaqpqkndira6x</string>
+				<string>db-alzhwtp0a8xg6xv</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>5</string>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>LSApplicationCategoryType</key>
-	<string>public.app-category.photography</string>
+	<string>public.app-category.utilities</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>dbapi-8-em</string>

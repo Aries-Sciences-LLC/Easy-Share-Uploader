@@ -1,1 +1,0 @@
-../../../Backendless/SDK/osx/backendless/include/BooleanReader.h

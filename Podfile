@@ -1,7 +1,7 @@
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
 
-target 'Image Uploader' do
+target 'Easy Share Uploader' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
@@ -9,7 +9,7 @@ target 'Image Uploader' do
   pod 'Alamofire', '~> 4.8.1'
   pod 'ReachabilitySwift'
   pod 'SwiftyDropbox'
-  pod 'Backendless'
+  pod 'BackendlessSwift'
   pod 'SwiftyJSON'
 
   pod 'Uploadcare/Core', :path => './UploadCareSDK/'
@@ -19,14 +19,6 @@ target 'Image Uploader' do
   pod 'FirebaseStorage', :path => './FireBaseSDK/'
   pod 'FirebaseAuth', :path => './FireBaseSDK/'
 
-  target 'Image UploaderTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
-  target 'Image UploaderUITests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
+  pod 'anim'
 
 end
