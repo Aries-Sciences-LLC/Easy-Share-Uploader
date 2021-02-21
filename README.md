@@ -1,4 +1,4 @@
-# Image-Uploader
+# Easy Share Uploader
 ![App Icon](https://github.com/Aries-Sciences-LLC/Image-Uploader/blob/master/App%20Icon/icon.iconset/icon_128x128%402x.png)
 
 This is an application for the Mac OSX. It allows users to easily host their local images to the internet through multiple services.
