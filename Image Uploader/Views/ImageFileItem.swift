@@ -40,6 +40,10 @@ class ImageFileItem: NSView {
         layer?.borderColor = NSColor.gray.withSystemEffect(.disabled).cgColor
     }
     
+    override func mouseDown(with event: NSEvent) {
+        NSWorkspace.shared.open(data.link)
+    }
+    
     func configure() {
         wantsLayer = true
         

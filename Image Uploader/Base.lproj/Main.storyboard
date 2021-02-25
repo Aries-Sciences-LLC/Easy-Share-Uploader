@@ -14,29 +14,25 @@
                 <application id="hnw-xV-0zn" sceneMemberID="viewController">
                     <menu key="mainMenu" title="Main Menu" systemMenu="main" id="AYu-sK-qS6">
                         <items>
-                            <menuItem title="Image Uploader" id="1Xt-HY-uBw">
+                            <menuItem title="Easy Share Uploader" id="1Xt-HY-uBw">
                                 <modifierMask key="keyEquivalentModifierMask"/>
-                                <menu key="submenu" title="Image Uploader" systemMenu="apple" id="uQy-DD-JDr">
+                                <menu key="submenu" title="Easy Share Uploader" systemMenu="apple" id="uQy-DD-JDr">
                                     <items>
-                                        <menuItem title="About Image Uploader" id="5kV-Vb-QxS">
+                                        <menuItem title="About Easy Share Uploader" id="5kV-Vb-QxS">
                                             <modifierMask key="keyEquivalentModifierMask"/>
                                             <connections>
                                                 <action selector="orderFrontStandardAboutPanel:" target="Ady-hI-5gd" id="Exp-CZ-Vem"/>
                                             </connections>
                                         </menuItem>
                                         <menuItem isSeparatorItem="YES" id="VOq-y0-SEH"/>
-                                        <menuItem title="Preferences…" keyEquivalent="," id="BOF-NM-1cW">
-                                            <connections>
-                                                <action selector="openSettingsPanel:" target="Voe-Tx-rLC" id="MIc-4X-R52"/>
-                                            </connections>
-                                        </menuItem>
+                                        <menuItem title="Preferences…" keyEquivalent="," id="BOF-NM-1cW"/>
                                         <menuItem isSeparatorItem="YES" id="wFC-TO-SCJ"/>
                                         <menuItem title="Services" id="NMo-om-nkz">
                                             <modifierMask key="keyEquivalentModifierMask"/>
                                             <menu key="submenu" title="Services" systemMenu="services" id="hz9-B4-Xy5"/>
                                         </menuItem>
                                         <menuItem isSeparatorItem="YES" id="4je-JR-u6R"/>
-                                        <menuItem title="Hide Image Uploader" keyEquivalent="h" id="Olw-nP-bQN">
+                                        <menuItem title="Hide Easy Share Uploader" keyEquivalent="h" id="Olw-nP-bQN">
                                             <connections>
                                                 <action selector="hide:" target="Ady-hI-5gd" id="PnN-Uc-m68"/>
                                             </connections>
@@ -54,7 +50,7 @@
                                             </connections>
                                         </menuItem>
                                         <menuItem isSeparatorItem="YES" id="kCx-OE-vgT"/>
-                                        <menuItem title="Quit Image Uploader" keyEquivalent="q" id="4sb-4s-VLi">
+                                        <menuItem title="Quit Easy Share Uploader" keyEquivalent="q" id="4sb-4s-VLi">
                                             <connections>
                                                 <action selector="terminate:" target="Ady-hI-5gd" id="Te7-pn-YzF"/>
                                             </connections>
@@ -651,6 +647,12 @@
                                                 <action selector="arrangeInFront:" target="Ady-hI-5gd" id="DRN-fu-gQh"/>
                                             </connections>
                                         </menuItem>
+                                        <menuItem title="Main Window" id="pln-Zl-EnO">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                            <connections>
+                                                <action selector="reopenMenuItem:" target="Voe-Tx-rLC" id="Dby-Rr-8rH"/>
+                                            </connections>
+                                        </menuItem>
                                     </items>
                                 </menu>
                             </menuItem>
@@ -658,11 +660,7 @@
                                 <modifierMask key="keyEquivalentModifierMask"/>
                                 <menu key="submenu" title="Help" systemMenu="help" id="F2S-fz-NVQ">
                                     <items>
-                                        <menuItem title="Image Uploader Help" keyEquivalent="?" id="FKE-Sm-Kum">
-                                            <connections>
-                                                <action selector="showHelp" target="Voe-Tx-rLC" id="OzC-Nv-kZz"/>
-                                            </connections>
-                                        </menuItem>
+                                        <menuItem title="Image Uploader Help" keyEquivalent="?" id="FKE-Sm-Kum"/>
                                     </items>
                                 </menu>
                             </menuItem>
@@ -704,102 +702,92 @@
             <objects>
                 <viewController storyboardIdentifier="URLGeneratorViewController" id="Wsi-Qr-KH3" customClass="URLGeneratorViewController" customModule="Easy_Share_Uploader" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" wantsLayer="YES" id="jrr-Lb-ZG9">
-                        <rect key="frame" x="0.0" y="0.0" width="450" height="150"/>
+                        <rect key="frame" x="0.0" y="0.0" width="400" height="350"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <subviews>
-                            <stackView wantsLayer="YES" distribution="fill" orientation="horizontal" alignment="centerY" horizontalStackHuggingPriority="249.99998474121094" verticalStackHuggingPriority="249.99998474121094" detachesHiddenViews="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Ef5-En-z4a">
-                                <rect key="frame" x="20" y="63" width="410" height="25"/>
+                            <stackView wantsLayer="YES" distribution="fillEqually" orientation="horizontal" alignment="centerY" horizontalStackHuggingPriority="249.99998474121094" verticalStackHuggingPriority="249.99998474121094" detachesHiddenViews="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Ef5-En-z4a">
+                                <rect key="frame" x="20" y="20" width="360" height="25"/>
                                 <subviews>
-                                    <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="jHz-SA-ypW">
-                                        <rect key="frame" x="-2" y="3" width="306" height="19"/>
-                                        <shadow key="shadow" blurRadius="8">
+                                    <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="cWS-yE-zfK">
+                                        <rect key="frame" x="0.0" y="-4" width="84" height="34"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="20" id="s5x-00-GUU"/>
+                                        </constraints>
+                                        <shadow key="shadow" blurRadius="12">
                                             <size key="offset" width="3" height="3"/>
-                                            <color key="color" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                            <color key="color" name="secondaryLabelColor" catalog="System" colorSpace="catalog"/>
                                         </shadow>
-                                        <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" title="URL" usesSingleLineMode="YES" id="pYq-uV-l0V">
-                                            <font key="font" size="14" name="Avenir-Black"/>
-                                            <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
-                                            <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
-                                        </textFieldCell>
-                                    </textField>
-                                    <stackView distribution="fillEqually" orientation="horizontal" alignment="top" horizontalStackHuggingPriority="249.99998474121094" verticalStackHuggingPriority="249.99998474121094" detachesHiddenViews="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ElT-aR-m0N">
-                                        <rect key="frame" x="310" y="2" width="100" height="20"/>
-                                        <subviews>
-                                            <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="tOu-8D-twP">
-                                                <rect key="frame" x="0.0" y="-7" width="28" height="34"/>
-                                                <constraints>
-                                                    <constraint firstAttribute="height" constant="20" id="bNP-Sl-VK8"/>
-                                                </constraints>
-                                                <shadow key="shadow" blurRadius="12">
-                                                    <size key="offset" width="3" height="3"/>
-                                                    <color key="color" name="secondaryLabelColor" catalog="System" colorSpace="catalog"/>
-                                                </shadow>
-                                                <buttonCell key="cell" type="bevel" bezelStyle="rounded" imagePosition="only" alignment="center" imageScaling="proportionallyDown" inset="2" id="cnV-vo-Fmt">
-                                                    <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                                                    <font key="font" metaFont="system"/>
-                                                    <imageReference key="image" image="doc.on.clipboard" catalog="system" symbolScale="large"/>
-                                                    <string key="keyEquivalent">c</string>
-                                                    <modifierMask key="keyEquivalentModifierMask" command="YES"/>
-                                                </buttonCell>
-                                                <connections>
-                                                    <action selector="copyToClipboard:" target="Wsi-Qr-KH3" id="24c-XP-HCf"/>
-                                                </connections>
-                                            </button>
-                                            <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="COj-Vo-KHp">
-                                                <rect key="frame" x="36" y="-4" width="28.5" height="31"/>
-                                                <constraints>
-                                                    <constraint firstAttribute="height" constant="20" id="NRl-7Y-vGo"/>
-                                                </constraints>
-                                                <shadow key="shadow" blurRadius="12">
-                                                    <size key="offset" width="3" height="3"/>
-                                                    <color key="color" name="secondaryLabelColor" catalog="System" colorSpace="catalog"/>
-                                                </shadow>
-                                                <buttonCell key="cell" type="bevel" bezelStyle="rounded" imagePosition="only" alignment="center" imageScaling="proportionallyDown" inset="2" id="Hrj-kc-3uo">
-                                                    <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                                                    <font key="font" metaFont="system"/>
-                                                    <imageReference key="image" image="NSRefreshTemplate" symbolScale="large"/>
-                                                    <string key="keyEquivalent">r</string>
-                                                    <modifierMask key="keyEquivalentModifierMask" command="YES"/>
-                                                </buttonCell>
-                                                <connections>
-                                                    <action selector="refreshLink:" target="Wsi-Qr-KH3" id="oMn-sU-cfI"/>
-                                                </connections>
-                                            </button>
-                                            <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="eU9-uT-334">
-                                                <rect key="frame" x="72" y="0.0" width="28" height="20"/>
-                                                <constraints>
-                                                    <constraint firstAttribute="height" constant="20" id="eNT-ag-Q3E"/>
-                                                </constraints>
-                                                <shadow key="shadow" blurRadius="12">
-                                                    <size key="offset" width="3" height="3"/>
-                                                    <color key="color" name="secondaryLabelColor" catalog="System" colorSpace="catalog"/>
-                                                </shadow>
-                                                <buttonCell key="cell" type="bevel" title="👍" bezelStyle="rounded" imagePosition="overlaps" alignment="center" imageScaling="proportionallyDown" inset="2" id="vqE-ia-7Su">
-                                                    <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                                                    <font key="font" metaFont="system" size="15"/>
-                                                    <string key="keyEquivalent" base64-UTF8="YES">
+                                        <buttonCell key="cell" type="bevel" bezelStyle="rounded" imagePosition="only" alignment="center" imageScaling="proportionallyDown" inset="2" id="ijC-Ov-H3f">
+                                            <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                                            <font key="font" metaFont="system"/>
+                                            <imageReference key="image" image="doc.on.clipboard" catalog="system" symbolScale="large"/>
+                                            <string key="keyEquivalent">c</string>
+                                            <modifierMask key="keyEquivalentModifierMask" command="YES"/>
+                                        </buttonCell>
+                                        <connections>
+                                            <action selector="copyToClipboard:" target="Wsi-Qr-KH3" id="vw9-Ea-qFF"/>
+                                        </connections>
+                                    </button>
+                                    <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="0NS-k9-5gk">
+                                        <rect key="frame" x="92" y="-1" width="84" height="28"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="20" id="wTr-Ef-GaQ"/>
+                                        </constraints>
+                                        <shadow key="shadow" blurRadius="12">
+                                            <size key="offset" width="3" height="3"/>
+                                            <color key="color" name="secondaryLabelColor" catalog="System" colorSpace="catalog"/>
+                                        </shadow>
+                                        <buttonCell key="cell" type="bevel" bezelStyle="rounded" imagePosition="only" alignment="center" imageScaling="proportionallyDown" inset="2" id="OMG-pf-zIY">
+                                            <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                                            <font key="font" metaFont="system"/>
+                                            <imageReference key="image" image="arrowshape.turn.up.left.fill" catalog="system" symbolScale="large"/>
+                                            <string key="keyEquivalent">r</string>
+                                            <modifierMask key="keyEquivalentModifierMask" command="YES"/>
+                                        </buttonCell>
+                                        <connections>
+                                            <action selector="openLinkinDefaultBrowser:" target="Wsi-Qr-KH3" id="bT8-Ep-qL8"/>
+                                        </connections>
+                                    </button>
+                                    <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="wfq-Oe-aj4">
+                                        <rect key="frame" x="184" y="-1" width="84" height="31"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="20" id="5pj-V9-3aH"/>
+                                        </constraints>
+                                        <shadow key="shadow" blurRadius="12">
+                                            <size key="offset" width="3" height="3"/>
+                                            <color key="color" name="secondaryLabelColor" catalog="System" colorSpace="catalog"/>
+                                        </shadow>
+                                        <buttonCell key="cell" type="bevel" bezelStyle="rounded" imagePosition="only" alignment="center" imageScaling="proportionallyDown" inset="2" id="ipw-re-Isy">
+                                            <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                                            <font key="font" metaFont="system"/>
+                                            <imageReference key="image" image="NSRefreshTemplate" symbolScale="large"/>
+                                            <string key="keyEquivalent">r</string>
+                                            <modifierMask key="keyEquivalentModifierMask" command="YES"/>
+                                        </buttonCell>
+                                        <connections>
+                                            <action selector="refreshLink:" target="Wsi-Qr-KH3" id="hmh-k5-44i"/>
+                                        </connections>
+                                    </button>
+                                    <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="ADH-KP-dhN">
+                                        <rect key="frame" x="276" y="3" width="84" height="20"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="20" id="Dci-XZ-WBu"/>
+                                        </constraints>
+                                        <shadow key="shadow" blurRadius="12">
+                                            <size key="offset" width="3" height="3"/>
+                                            <color key="color" name="secondaryLabelColor" catalog="System" colorSpace="catalog"/>
+                                        </shadow>
+                                        <buttonCell key="cell" type="bevel" title="👍" bezelStyle="rounded" imagePosition="overlaps" alignment="center" imageScaling="proportionallyDown" inset="2" id="bR1-iy-E0d">
+                                            <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                                            <font key="font" metaFont="system" size="15"/>
+                                            <string key="keyEquivalent" base64-UTF8="YES">
 DQ
 </string>
-                                                </buttonCell>
-                                                <connections>
-                                                    <action selector="saveLink:" target="Wsi-Qr-KH3" id="Owi-hq-pIb"/>
-                                                </connections>
-                                            </button>
-                                        </subviews>
-                                        <constraints>
-                                            <constraint firstAttribute="width" constant="100" id="9Ii-p1-QIm"/>
-                                        </constraints>
-                                        <visibilityPriorities>
-                                            <integer value="1000"/>
-                                            <integer value="1000"/>
-                                            <integer value="1000"/>
-                                        </visibilityPriorities>
-                                        <customSpacing>
-                                            <real value="3.4028234663852886e+38"/>
-                                            <real value="3.4028234663852886e+38"/>
-                                            <real value="3.4028234663852886e+38"/>
-                                        </customSpacing>
-                                    </stackView>
+                                        </buttonCell>
+                                        <connections>
+                                            <action selector="saveLink:" target="Wsi-Qr-KH3" id="vYQ-dZ-GzF"/>
+                                        </connections>
+                                    </button>
                                 </subviews>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="25" id="8OD-cW-NAB"/>
@@ -807,36 +795,43 @@ DQ
                                 <visibilityPriorities>
                                     <integer value="1000"/>
                                     <integer value="1000"/>
+                                    <integer value="1000"/>
+                                    <integer value="1000"/>
                                 </visibilityPriorities>
                                 <customSpacing>
+                                    <real value="3.4028234663852886e+38"/>
+                                    <real value="3.4028234663852886e+38"/>
                                     <real value="3.4028234663852886e+38"/>
                                     <real value="3.4028234663852886e+38"/>
                                 </customSpacing>
                             </stackView>
                             <progressIndicator maxValue="100" displayedWhenStopped="NO" indeterminate="YES" controlSize="small" style="spinning" translatesAutoresizingMaskIntoConstraints="NO" id="H5S-Pf-uGp">
-                                <rect key="frame" x="217" y="67" width="16" height="16"/>
+                                <rect key="frame" x="192" y="167" width="16" height="16"/>
                             </progressIndicator>
-                            <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" alphaValue="0.0" translatesAutoresizingMaskIntoConstraints="NO" id="BVY-SD-QcA">
-                                <rect key="frame" x="169" y="20" width="113" height="15"/>
-                                <shadow key="shadow" blurRadius="6">
+                            <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="Ba8-cd-7dw">
+                                <rect key="frame" x="18" y="314" width="364" height="16"/>
+                                <shadow key="shadow" blurRadius="8">
                                     <size key="offset" width="3" height="3"/>
-                                    <color key="color" name="labelColor" catalog="System" colorSpace="catalog"/>
+                                    <color key="color" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </shadow>
-                                <textFieldCell key="cell" lineBreakMode="clipping" title="Copied to clipboard!" id="DNM-U3-0qY">
-                                    <font key="font" size="11" name="Avenir-Black"/>
-                                    <color key="textColor" name="tertiaryLabelColor" catalog="System" colorSpace="catalog"/>
+                                <textFieldCell key="cell" selectable="YES" placeholderString="File's URL is coming right up!" id="IuY-jn-GfE">
+                                    <font key="font" size="12" name="Avenir-Heavy"/>
+                                    <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
                             </textField>
                         </subviews>
                         <constraints>
+                            <constraint firstItem="Ba8-cd-7dw" firstAttribute="top" secondItem="jrr-Lb-ZG9" secondAttribute="top" constant="20" symbolic="YES" id="1jP-tw-fZb"/>
                             <constraint firstAttribute="trailing" secondItem="Ef5-En-z4a" secondAttribute="trailing" constant="20" symbolic="YES" id="4ec-yu-rcp"/>
+                            <constraint firstAttribute="trailing" secondItem="Ba8-cd-7dw" secondAttribute="trailing" constant="20" symbolic="YES" id="5du-jh-SoR"/>
+                            <constraint firstAttribute="bottom" secondItem="Ef5-En-z4a" secondAttribute="bottom" constant="20" symbolic="YES" id="EE8-db-Eqw"/>
                             <constraint firstItem="Ef5-En-z4a" firstAttribute="leading" secondItem="jrr-Lb-ZG9" secondAttribute="leading" constant="20" symbolic="YES" id="FWV-rH-4n1"/>
                             <constraint firstItem="H5S-Pf-uGp" firstAttribute="centerX" secondItem="jrr-Lb-ZG9" secondAttribute="centerX" id="VEg-gL-f6K"/>
-                            <constraint firstAttribute="bottom" secondItem="BVY-SD-QcA" secondAttribute="bottom" constant="20" symbolic="YES" id="ZCz-6G-kdM"/>
-                            <constraint firstItem="Ef5-En-z4a" firstAttribute="centerY" secondItem="jrr-Lb-ZG9" secondAttribute="centerY" id="ZFh-cA-PaV"/>
+                            <constraint firstItem="Ef5-En-z4a" firstAttribute="top" relation="greaterThanOrEqual" secondItem="H5S-Pf-uGp" secondAttribute="bottom" constant="8" symbolic="YES" id="WWl-2L-UnK"/>
+                            <constraint firstItem="Ba8-cd-7dw" firstAttribute="leading" secondItem="jrr-Lb-ZG9" secondAttribute="leading" constant="20" symbolic="YES" id="Zcr-Qy-F2t"/>
                             <constraint firstItem="H5S-Pf-uGp" firstAttribute="centerY" secondItem="jrr-Lb-ZG9" secondAttribute="centerY" id="ch5-gu-vQ6"/>
-                            <constraint firstItem="BVY-SD-QcA" firstAttribute="centerX" secondItem="jrr-Lb-ZG9" secondAttribute="centerX" id="hVq-3r-kLE"/>
+                            <constraint firstItem="Ef5-En-z4a" firstAttribute="top" relation="greaterThanOrEqual" secondItem="Ba8-cd-7dw" secondAttribute="bottom" constant="8" symbolic="YES" id="zLQ-nd-1Su"/>
                         </constraints>
                     </view>
                     <touchBar key="touchBar" id="bPj-7k-V1M">
@@ -853,6 +848,21 @@ DQ
                                         </buttonCell>
                                         <connections>
                                             <action selector="tbCopyToClipboard:" target="Wsi-Qr-KH3" id="4lV-Q7-Pd1"/>
+                                        </connections>
+                                    </button>
+                                </viewController>
+                            </touchBarItem>
+                            <touchBarItem id="H2n-gI-33b">
+                                <viewController key="viewController" id="L11-Ih-8Dp">
+                                    <button key="view" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="VR3-eB-g98">
+                                        <rect key="frame" x="0.0" y="0.0" width="72" height="30"/>
+                                        <buttonCell key="cell" type="push" bezelStyle="rounded" imagePosition="only" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="ETk-Wm-IQD">
+                                            <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                                            <font key="font" usesAppearanceFont="YES"/>
+                                            <imageReference key="image" image="arrowshape.turn.up.left" catalog="system" symbolScale="small"/>
+                                        </buttonCell>
+                                        <connections>
+                                            <action selector="tbOpenLinkinDefaultBrowser:" target="Wsi-Qr-KH3" id="kpQ-vo-cOv"/>
                                         </connections>
                                     </button>
                                 </viewController>
@@ -890,14 +900,13 @@ DQ
                         </touchBarItems>
                     </touchBar>
                     <connections>
-                        <outlet property="URLDisplay" destination="jHz-SA-ypW" id="ydH-kL-C7f"/>
+                        <outlet property="URLDisplay" destination="Ba8-cd-7dw" id="g79-m5-gVr"/>
                         <outlet property="actionSpinner" destination="H5S-Pf-uGp" id="Qcf-U4-BYE"/>
-                        <outlet property="copied" destination="BVY-SD-QcA" id="IFl-MP-pFf"/>
                     </connections>
                 </viewController>
                 <customObject id="qjF-1p-Dad" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1069" y="335"/>
+            <point key="canvasLocation" x="-1069" y="236"/>
         </scene>
         <!--Add New Item View Controller-->
         <scene sceneID="TBk-SH-xka">
@@ -1579,7 +1588,7 @@ AAAAAAEGA
                                             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                             <subviews>
                                                 <customView translatesAutoresizingMaskIntoConstraints="NO" id="pH8-Wx-A7O" customClass="DropView" customModule="Easy_Share_Uploader" customModuleProvider="target">
-                                                    <rect key="frame" x="61" y="193" width="255" height="255"/>
+                                                    <rect key="frame" x="61" y="193" width="255" height="254"/>
                                                     <subviews>
                                                         <button translatesAutoresizingMaskIntoConstraints="NO" id="g3O-Ih-8g0" customClass="HoverableButton" customModule="Easy_Share_Uploader" customModuleProvider="target">
                                                             <rect key="frame" x="83" y="81" width="89" height="94"/>
@@ -1596,7 +1605,7 @@ AAAAAAEGA
                                                             </connections>
                                                         </button>
                                                         <textField wantsLayer="YES" horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="Zrq-nb-Efh">
-                                                            <rect key="frame" x="60" y="43" width="136" height="15"/>
+                                                            <rect key="frame" x="59" y="43" width="136" height="15"/>
                                                             <shadow key="shadow" blurRadius="8">
                                                                 <size key="offset" width="3" height="3"/>
                                                                 <color key="color" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -1608,7 +1617,7 @@ AAAAAAEGA
                                                             </textFieldCell>
                                                         </textField>
                                                         <button translatesAutoresizingMaskIntoConstraints="NO" id="xGU-gs-4cV" customClass="HoverableButton" customModule="Easy_Share_Uploader" customModuleProvider="target">
-                                                            <rect key="frame" x="210" y="207" width="20.5" height="27"/>
+                                                            <rect key="frame" x="210" y="206" width="20" height="27"/>
                                                             <constraints>
                                                                 <constraint firstAttribute="width" constant="20" identifier="width" id="CLZ-aW-CJO"/>
                                                                 <constraint firstAttribute="height" constant="20" identifier="height" id="zi0-tH-yG8"/>
@@ -2049,12 +2058,14 @@ Gw
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="6Zd-TV-37d"/>
+        <segue reference="knh-9b-5Ka"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="App Icon" width="200" height="200"/>
         <image name="NSRefreshTemplate" width="17" height="20"/>
         <image name="arrow.clockwise" catalog="system" width="11" height="13"/>
+        <image name="arrowshape.turn.up.left" catalog="system" width="14" height="12"/>
+        <image name="arrowshape.turn.up.left.fill" catalog="system" width="21" height="17"/>
         <image name="buttonCell:8gL-pM-p2V:image" width="1" height="1">
             <mutableData key="keyedArchiveRepresentation">
 YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05T
@@ -2996,15 +3007,15 @@ NZQ1ljWYRzhHPUdKR01HWkdfR2dHakdvR3cAAAAAAAACAQAAAAAAAABoAAAAAAAAAAAAAAAAAABHeg
         </image>
         <image name="camera" catalog="system" width="17" height="12"/>
         <image name="camera.circle.fill" catalog="system" width="13" height="13"/>
-        <image name="camera.fill" catalog="system" width="19" height="15"/>
+        <image name="camera.fill" catalog="system" width="20" height="15"/>
         <image name="doc.on.clipboard" catalog="system" width="15" height="15"/>
-        <image name="plus" catalog="system" width="12" height="11"/>
-        <image name="plus.app.fill" catalog="system" width="15" height="14"/>
-        <image name="square.and.arrow.up" catalog="system" width="12" height="14"/>
-        <image name="square.and.arrow.up.fill" catalog="system" width="12" height="14"/>
+        <image name="plus" catalog="system" width="13" height="11"/>
+        <image name="plus.app.fill" catalog="system" width="16" height="14"/>
+        <image name="square.and.arrow.up" catalog="system" width="13" height="14"/>
+        <image name="square.and.arrow.up.fill" catalog="system" width="13" height="14"/>
         <image name="trash.fill" catalog="system" width="12" height="13"/>
-        <image name="tray.and.arrow.down" catalog="system" width="15" height="14"/>
-        <image name="tray.and.arrow.down.fill" catalog="system" width="15" height="14"/>
+        <image name="tray.and.arrow.down" catalog="system" width="16" height="14"/>
+        <image name="tray.and.arrow.down.fill" catalog="system" width="16" height="14"/>
         <image name="xmark" catalog="system" width="15" height="13"/>
     </resources>
 </document>

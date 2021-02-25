@@ -125,12 +125,16 @@ public class UploadService: NSObject {
                             self.callback(link.url)
                         } else if error != nil {
                             self.callback("Error Making URL")
-                            fatalError(error!.description)
+                            print(error!.description)
                         }
                     }
                 } else if error != nil {
-                    self.callback("Error Making URL")
-                    fatalError(error!.description)
+                    if ((error?.description.contains("insufficient_space")) != nil) {
+                        self.callback("Your Dropbox account has insufficient space. Please retry!")
+                    } else {
+                        self.callback("Error Making URL")
+                    }
+                    print(error!.description)
                 }
             }
         case .Backendless:

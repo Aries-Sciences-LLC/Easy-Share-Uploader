@@ -18,7 +18,6 @@ class URLGeneratorViewController: NSViewController {
 
     @IBOutlet weak var URLDisplay: NSTextField!
     @IBOutlet weak var actionSpinner: NSProgressIndicator!
-    @IBOutlet weak var copied: NSTextField!
     
     private var service: UploadService!
     
@@ -44,7 +43,7 @@ class URLGeneratorViewController: NSViewController {
     }
     
     @IBAction func copyToClipboard(_ sender: Any) {
-        guard URLDisplay.stringValue.count > 0 else { return }
+        guard URLDisplay.stringValue.count > 0 && URLDisplay.stringValue != "Error Making URL" else { return }
         
         addToClipboard(URLDisplay.stringValue)
     }
@@ -65,6 +64,12 @@ class URLGeneratorViewController: NSViewController {
         dismiss(self)
     }
     
+    @IBAction func openLinkinDefaultBrowser(_ sender: Any) {
+        guard URLDisplay.stringValue.count > 0 && URLDisplay.stringValue != "Error Making URL" else { return }
+        
+        NSWorkspace.shared.open(URL(string: URLDisplay.stringValue)!)
+    }
+    
     @IBAction func tbCopyToClipboard(_ sender: Any) {
         copyToClipboard(sender)
     }
@@ -75,5 +80,9 @@ class URLGeneratorViewController: NSViewController {
     
     @IBAction func tbSaveLink(_ sender: Any) {
         saveLink(sender)
+    }
+    
+    @IBAction func tbOpenLinkinDefaultBrowser(_ sender: Any) {
+        openLinkinDefaultBrowser(sender)
     }
 }

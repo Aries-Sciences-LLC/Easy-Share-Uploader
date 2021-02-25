@@ -31,19 +31,25 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     }
     
     func application(_ sender: NSApplication, openFile filename: String) -> Bool {
-        _ = applicationShouldHandleReopen(sender, hasVisibleWindows: sender.keyWindow != nil)
-//        (sender.keyWindow!.contentViewController as? ViewController)!.quickUpload(with: filename)
+        if applicationShouldHandleReopen(sender, hasVisibleWindows: sender.keyWindow != nil) {
+            guard let cvc = (sender.keyWindow?.contentViewController as? ViewController) else { return true }
+            cvc.fileName = filename
+            cvc.image = NSImage(contentsOfFile: filename)
+            cvc.performSegue(withIdentifier: "presentInformationController", sender: cvc)
+        }
         
         return true
     }
     
     func applicationShouldHandleReopen(_ sender: NSApplication, hasVisibleWindows flag: Bool) -> Bool {
-        if !flag {
-            for window in sender.windows {
-                window.makeKeyAndOrderFront(self)
-            }
+        for window in sender.windows {
+            window.makeKeyAndOrderFront(self)
         }
         
         return true
+    }
+    
+    @IBAction func reopenMenuItem(_ sender: Any) {
+        _ = applicationShouldHandleReopen(NSApp, hasVisibleWindows: NSApp.keyWindow != nil)
     }
 }

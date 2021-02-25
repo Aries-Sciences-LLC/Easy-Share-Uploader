@@ -125,7 +125,7 @@ class ScrollView: NSScrollView {
         spacing = 50
         proportion = 0.65
         
-        documentView?.frame.size.height = CGFloat(75 * (count - 1)) + (contentView.bounds.width * proportion) * CGFloat(count + (count - 1))
+        documentView?.frame.size.height = contentView.bounds.height * CGFloat(count)
         documentView?.subviews.forEach({ if $0 is ImageFileItem { $0.removeFromSuperview() } })
         documentView?.scroll(CGPoint(x: 0, y: documentView?.bounds.height ?? 0))
         
@@ -142,6 +142,10 @@ class ScrollView: NSScrollView {
                 itemView.centerXAnchor.constraint(equalTo: superview.centerXAnchor),
 //                itemView.topAnchor.constraint(equalTo: prevItem.bottomAnchor, constant: filesView.spacing)
             ])
+        }
+        
+        if count == 0 {
+            documentView?.frame.size.height = 1.75 * (contentView.bounds.width * proportion)
         }
     }
     
